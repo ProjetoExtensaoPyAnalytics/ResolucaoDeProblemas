@@ -1,0 +1,1832 @@
+grupo,subgrupo,indicador,ano,valor
+DADOS GERAIS,POPULAÇÃO,População,2010,61310.0
+DADOS GERAIS,POPULAÇÃO,População,2011,61817.0
+DADOS GERAIS,POPULAÇÃO,População,2012,62308.0
+DADOS GERAIS,POPULAÇÃO,População,2013,64405.0
+DADOS GERAIS,POPULAÇÃO,População,2014,65090.0
+DADOS GERAIS,POPULAÇÃO,População,2015,65769.0
+DADOS GERAIS,POPULAÇÃO,População,2016,66442.0
+DADOS GERAIS,POPULAÇÃO,População,2017,67110.0
+DADOS GERAIS,POPULAÇÃO,População,2018,67578.0
+DADOS GERAIS,POPULAÇÃO,População,2019,68228.0
+DADOS GERAIS,POPULAÇÃO,População,2020,68867.0
+DADOS GERAIS,POPULAÇÃO,População,2021,69493.0
+DADOS GERAIS,POPULAÇÃO,População,2022,71922.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2010,61310.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2011,61817.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2012,62308.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2013,64405.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2014,65090.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2015,65769.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2016,66442.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2017,67110.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2018,67578.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2019,68228.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2020,68867.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2021,69493.0
+DADOS GERAIS,POPULAÇÃO,População SNIS,2022,71922.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2010,50526.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2011,50944.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2012,51348.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2013,53077.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2014,53641.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2015,54201.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2016,54755.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2017,55306.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2018,55692.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2019,56227.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2020,56754.0
+DADOS GERAIS,POPULAÇÃO,População urbana,2021,57270.0
+DADOS GERAIS,MORADIA,Moradias,2010,19829.0
+DADOS GERAIS,MORADIA,Moradias,2011,20439.0
+DADOS GERAIS,MORADIA,Moradias,2012,21067.0
+DADOS GERAIS,MORADIA,Moradias,2013,21715.0
+DADOS GERAIS,MORADIA,Moradias,2014,22383.0
+DADOS GERAIS,MORADIA,Moradias,2015,23071.0
+DADOS GERAIS,MORADIA,Moradias,2016,23780.0
+DADOS GERAIS,MORADIA,Moradias,2017,24511.0
+DADOS GERAIS,MORADIA,Moradias,2018,25265.0
+DADOS GERAIS,MORADIA,Moradias,2019,26242.0
+DADOS GERAIS,MORADIA,Moradias,2022,26770.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2010,16408.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2011,16939.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2012,17487.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2013,18053.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2014,18638.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2015,19242.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2016,19865.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2017,20508.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2018,21172.0
+DADOS GERAIS,MORADIA,Moradias urbanas,2019,21964.0
+DADOS GERAIS,MORADIA,Densidade domiciliar,2010,3.09
+DADOS GERAIS,MORADIA,Densidade domiciliar,2011,3.02
+DADOS GERAIS,MORADIA,Densidade domiciliar,2012,2.96
+DADOS GERAIS,MORADIA,Densidade domiciliar,2013,2.97
+DADOS GERAIS,MORADIA,Densidade domiciliar,2014,2.91
+DADOS GERAIS,MORADIA,Densidade domiciliar,2015,2.85
+DADOS GERAIS,MORADIA,Densidade domiciliar,2016,2.79
+DADOS GERAIS,MORADIA,Densidade domiciliar,2017,2.74
+DADOS GERAIS,MORADIA,Densidade domiciliar,2018,2.67
+DADOS GERAIS,MORADIA,Densidade domiciliar,2019,2.6
+DADOS GERAIS,MORADIA,Densidade domiciliar,2022,2.69
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2010,3.08
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2011,3.01
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2012,2.94
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2013,2.94
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2014,2.88
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2015,2.82
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2016,2.76
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2017,2.7
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2018,2.63
+DADOS GERAIS,MORADIA,Densidade domiciliar urbana,2019,2.56
+DADOS GERAIS,RENDA,PIB,2010,991.569
+DADOS GERAIS,RENDA,PIB,2011,1204.545
+DADOS GERAIS,RENDA,PIB,2012,1254.563
+DADOS GERAIS,RENDA,PIB,2013,1339.435
+DADOS GERAIS,RENDA,PIB,2014,1510.259
+DADOS GERAIS,RENDA,PIB,2015,1549.048
+DADOS GERAIS,RENDA,PIB,2016,1572.795
+DADOS GERAIS,RENDA,PIB,2017,1724.538
+DADOS GERAIS,RENDA,PIB,2018,1833.576
+DADOS GERAIS,RENDA,PIB,2019,1941.337
+DADOS GERAIS,RENDA,PIB,2020,2067.725
+DADOS GERAIS,RENDA,PIB,2021,2384.838
+DADOS GERAIS,RENDA,PIB per capita,2010,16173.04
+DADOS GERAIS,RENDA,PIB per capita,2011,19485.66
+DADOS GERAIS,RENDA,PIB per capita,2012,20134.86
+DADOS GERAIS,RENDA,PIB per capita,2013,20797.07
+DADOS GERAIS,RENDA,PIB per capita,2014,23202.63
+DADOS GERAIS,RENDA,PIB per capita,2015,23552.86
+DADOS GERAIS,RENDA,PIB per capita,2016,23671.7
+DADOS GERAIS,RENDA,PIB per capita,2017,25697.18
+DADOS GERAIS,RENDA,PIB per capita,2018,27132.74
+DADOS GERAIS,RENDA,PIB per capita,2019,28453.67
+DADOS GERAIS,RENDA,PIB per capita,2020,30024.9
+DADOS GERAIS,RENDA,PIB per capita,2021,34317.67
+DADOS GERAIS,RENDA,PIB a preços de 2022,2010,2122.408
+DADOS GERAIS,RENDA,PIB a preços de 2022,2011,2380.677
+DADOS GERAIS,RENDA,PIB a preços de 2022,2012,2297.992
+DADOS GERAIS,RENDA,PIB a preços de 2022,2013,2282.281
+DADOS GERAIS,RENDA,PIB a preços de 2022,2014,2387.153
+DADOS GERAIS,RENDA,PIB a preços de 2022,2015,2275.524
+DADOS GERAIS,RENDA,PIB a preços de 2022,2016,2137.287
+DADOS GERAIS,RENDA,PIB a preços de 2022,2017,2259.877
+DADOS GERAIS,RENDA,PIB a preços de 2022,2018,2299.295
+DADOS GERAIS,RENDA,PIB a preços de 2022,2019,2336.302
+DADOS GERAIS,RENDA,PIB a preços de 2022,2020,2336.529
+DADOS GERAIS,RENDA,PIB a preços de 2022,2021,2384.838
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2010,34617.65
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2011,38511.69
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2012,36881.17
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2013,35436.4
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2014,36674.65
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2015,34598.73
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2016,32167.72
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2017,33674.22
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2018,34024.31
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2019,34242.57
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2020,33928.13
+DADOS GERAIS,RENDA,PIB per capita a preços de 2022,2021,34317.67
+DADOS GERAIS,AREA,Área do município,2010,303.299
+DADOS GERAIS,AREA,Área do município,2011,303.299
+DADOS GERAIS,AREA,Área do município,2012,303.299
+DADOS GERAIS,AREA,Área do município,2013,303.299
+DADOS GERAIS,AREA,Área do município,2014,303.299
+DADOS GERAIS,AREA,Área do município,2015,303.299
+DADOS GERAIS,AREA,Área do município,2016,303.299
+DADOS GERAIS,AREA,Área do município,2017,303.299
+DADOS GERAIS,AREA,Área do município,2018,303.299
+DADOS GERAIS,AREA,Área do município,2019,303.299
+DADOS GERAIS,AREA,Área do município,2020,303.299
+DADOS GERAIS,AREA,Área do município,2021,303.299
+DADOS GERAIS,AREA,Área do município,2022,303.299
+DADOS GERAIS,AREA,Densidade demográfica,2010,202.14
+DADOS GERAIS,AREA,Densidade demográfica,2011,203.82
+DADOS GERAIS,AREA,Densidade demográfica,2012,205.43
+DADOS GERAIS,AREA,Densidade demográfica,2013,212.35
+DADOS GERAIS,AREA,Densidade demográfica,2014,214.61
+DADOS GERAIS,AREA,Densidade demográfica,2015,216.85
+DADOS GERAIS,AREA,Densidade demográfica,2016,219.06
+DADOS GERAIS,AREA,Densidade demográfica,2017,221.27
+DADOS GERAIS,AREA,Densidade demográfica,2018,222.81
+DADOS GERAIS,AREA,Densidade demográfica,2019,224.95
+DADOS GERAIS,AREA,Densidade demográfica,2020,227.06
+DADOS GERAIS,AREA,Densidade demográfica,2021,229.12
+DADOS GERAIS,AREA,Densidade demográfica,2022,237.13
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2010,19724.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2011,20361.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2012,21019.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2013,21698.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2014,22383.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2015,23071.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2016,23780.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2017,24511.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2018,25265.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2019,26242.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias com banheiro,2022,26741.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias sem banheiro,2010,105.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias sem banheiro,2011,78.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias sem banheiro,2012,48.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias sem banheiro,2013,17.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Moradias sem banheiro,2022,29.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2010,99.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2011,99.6
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2012,99.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2013,99.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2014,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2015,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2016,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2017,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2018,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2019,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias com banheiro,2022,99.89
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias sem banheiro,2010,0.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias sem banheiro,2011,0.4
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias sem banheiro,2012,0.2
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias sem banheiro,2013,0.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela das moradias sem banheiro,2022,0.11
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população branca sem acesso à água,2022,30.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população preta sem acesso à água,2022,26.4
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população amarela sem acesso à água,2022,6.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população parda sem acesso à água,2022,30.2
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população indígena sem acesso à água,2022,25.6
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população branca sem acesso à coleta de esgoto,2022,62.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população preta sem acesso à coleta de esgoto,2022,62.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população amarela sem acesso à coleta de esgoto,2022,40.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população parda sem acesso à coleta de esgoto,2022,65.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Percentagem da população indígena sem acesso à coleta de esgoto,2022,66.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2010,46568.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2011,48424.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2012,50496.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2013,52100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2014,42221.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2015,43450.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2016,45563.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2017,47759.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2018,47942.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2019,49141.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2020,49632.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2021,50535.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com acesso à água,2022,52176.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2010,14742.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2011,13393.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2012,11812.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2013,12305.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2014,22869.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2015,22319.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2016,20879.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2017,19351.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2018,19636.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2019,19087.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2020,19235.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2021,18958.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem acesso à água,2022,19746.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2010,76.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2011,78.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2012,81.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2013,80.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2014,64.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2015,66.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2016,68.6
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2017,71.2
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2018,70.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2019,72.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2020,72.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2021,72.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com acesso à água,2022,72.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2010,24.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2011,21.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2012,19.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2013,19.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2014,35.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2015,33.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2016,31.4
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2017,28.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2018,29.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2019,28.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2020,27.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2021,27.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem acesso à água,2022,27.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2010,46568.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2011,48424.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2012,50496.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2013,52100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2014,41467.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2015,42028.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2016,43334.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2017,45448.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2018,45623.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2019,46398.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2020,46731.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com acesso à água,2021,47374.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2010,3958.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2011,2520.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2012,852.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2013,977.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2014,12174.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2015,12173.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2016,11421.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2017,9858.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2018,10069.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2019,9829.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2020,10023.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem acesso à água,2021,9896.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2010,92.2
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2011,95.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2012,98.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2013,98.2
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2014,77.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2015,77.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2016,79.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2017,82.2
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2018,81.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2019,82.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2020,82.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com acesso à água,2021,82.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2010,7.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2011,4.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2012,1.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2013,1.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2014,22.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2015,22.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2016,20.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2017,17.8
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2018,18.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2019,17.5
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2020,17.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem acesso à água,2021,17.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com coleta de esgoto,2017,1076.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com coleta de esgoto,2018,1164.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com coleta de esgoto,2019,9064.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com coleta de esgoto,2020,9727.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com coleta de esgoto,2021,9972.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População com coleta de esgoto,2022,15796.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2010,61310.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2011,61817.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2012,62308.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2013,64405.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2014,65090.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2015,65769.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2016,66442.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2017,66034.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2018,66414.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2019,59164.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2020,59140.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2021,59521.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População sem coleta de esgoto,2022,56126.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com coleta de esgoto,2017,1.6
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com coleta de esgoto,2018,1.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com coleta de esgoto,2019,13.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com coleta de esgoto,2020,14.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com coleta de esgoto,2021,14.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população com coleta de esgoto,2022,22.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2010,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2011,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2012,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2013,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2014,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2015,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2016,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2017,98.4
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2018,98.3
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2019,86.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2020,85.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2021,85.7
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população sem coleta de esgoto,2022,78.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com coleta de esgoto,2017,1076.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com coleta de esgoto,2018,1164.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com coleta de esgoto,2019,9064.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com coleta de esgoto,2020,9727.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana com coleta de esgoto,2021,9972.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2010,50526.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2011,50944.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2012,51348.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2013,53077.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2014,53641.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2015,54201.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2016,54755.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2017,54230.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2018,54528.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2019,47163.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2020,47027.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,População urbana sem coleta de esgoto,2021,47298.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com coleta de esgoto,2017,1.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com coleta de esgoto,2018,2.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com coleta de esgoto,2019,16.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com coleta de esgoto,2020,17.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana com coleta de esgoto,2021,17.4
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2010,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2011,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2012,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2013,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2014,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2015,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2016,100.0
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2017,98.1
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2018,97.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2019,83.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2020,82.9
+OPERAÇÕES DE SANEAMENTO,COBERTURA,Parcela da população urbana sem coleta de esgoto,2021,82.6
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2010,2272.08
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2011,2410.74
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2012,2575.84
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2013,2227.22
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2014,2391.85
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2015,2511.44
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2016,2773.98
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2017,2919.86
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2018,3147.53
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2019,3308.69
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2020,3416.37
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2021,3330.65
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo de água,2022,3472.7
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2010,101.53
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2011,106.84
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2012,113.26
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2013,94.74
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2014,100.68
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2015,104.62
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2016,114.39
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2017,119.2
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2018,127.61
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2019,132.86
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2020,135.91
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2021,131.31
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Consumo per capita de água,2022,132.29
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto coletado,2017,63.89
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto coletado,2018,84.76
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto coletado,2019,473.04
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto coletado,2020,524.76
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto coletado,2021,528.87
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto coletado,2022,565.82
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto tratado,2017,63.89
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto tratado,2018,84.76
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto tratado,2019,473.04
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto tratado,2020,524.76
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto tratado,2021,528.87
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Esgoto tratado,2022,565.82
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Índice de esgoto tratado referido à água consumida,2017,2.2
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Índice de esgoto tratado referido à água consumida,2018,2.7
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Índice de esgoto tratado referido à água consumida,2019,14.3
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Índice de esgoto tratado referido à água consumida,2020,15.4
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Índice de esgoto tratado referido à água consumida,2021,15.9
+OPERAÇÕES DE SANEAMENTO,PRODUÇÃO,Índice de esgoto tratado referido à água consumida,2022,16.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2010,21.7
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2011,20.1
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2012,18.7
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2013,16.0
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2014,12.4
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2015,12.4
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2016,12.0
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2017,8.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2018,12.6
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2019,12.5
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2020,12.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2021,12.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas na distribuição,2022,11.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2010,21.7
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2011,20.1
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2012,18.7
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2013,-0.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2014,-3.5
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2015,3.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2016,4.7
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2017,1.1
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2018,10.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2019,10.4
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2020,7.3
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2021,3.8
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Perdas no faturamento,2022,3.7
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2010,147.17
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2011,162.24
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2012,175.05
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2013,226.5
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2014,224.89
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2015,225.95
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2016,188.33
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2017,172.4
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2018,170.12
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2019,272.52
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2020,259.14
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2021,235.6
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal total (equivalente),2022,157.41
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2010,188.91
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2011,198.58
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2012,221.98
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2013,250.2
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2014,253.42
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2015,262.32
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2016,248.28
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2017,242.72
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2018,243.94
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2019,272.52
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2020,306.81
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2021,300.96
+OPERAÇÕES DE SANEAMENTO,EFICIÊNCIA,Economias ativas por pessoal próprio,2022,277.15
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2010,2.28
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2011,2.43
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2012,2.73
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2013,3.06
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2014,3.21
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2015,3.45
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2016,3.38
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2017,3.42
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2018,3.75
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2019,3.97
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2020,3.74
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2021,3.39
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de água,2022,4.07
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de coleta de esgoto,2021,10.04
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa de coleta de esgoto,2022,11.6
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2010,2.28
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2011,2.43
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2012,2.73
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2013,3.06
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2014,3.21
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2015,3.45
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2016,3.38
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2017,3.42
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2018,3.75
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2019,3.97
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2020,4.01
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2021,4.23
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Tarifa dos serviços de saneamento,2022,5.05
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2010,5181770.8
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2011,5861047.91
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2012,7044274.89
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2013,8140062.63
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2014,9071384.28
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2015,9552959.55
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2016,10160257.36
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2017,10754028.88
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2018,12134839.26
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2019,13466219.67
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2020,13512309.17
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2021,12390014.09
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com água,2022,15313570.29
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com coleta de esgoto,2020,954518.8
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com coleta de esgoto,2021,5310006.03
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta com coleta de esgoto,2022,6562958.69
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2010,5181770.8
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2011,5861047.91
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2012,7044274.89
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2013,8140062.63
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2014,9071384.28
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2015,9552959.55
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2016,10160257.36
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2017,10754028.88
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2018,12134839.26
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2019,13817039.18
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2020,14659978.18
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2021,18103809.37
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total,2022,22728303.07
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2010,12328668.85
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2011,13120075.27
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2012,14493336.77
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2013,15651212.04
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2014,17294272.67
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2015,16992558.76
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2016,15078865.52
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2017,14352768.42
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2018,15053509.15
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2019,16139862.72
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2020,16401380.49
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2021,19398325.45
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Receita direta e indireta total a preços de 2022,2022,22728303.07
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2010,84.52
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2011,94.81
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2012,113.06
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2013,126.39
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2014,139.37
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2015,145.25
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2016,152.92
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2017,160.24
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2018,179.57
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2019,202.51
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2020,212.87
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2021,260.51
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Despesas per capita com saneamento,2022,316.01
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2010,187.67
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2011,198.08
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2012,217.09
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2013,226.8
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2014,247.97
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2015,241.13
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2016,211.8
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2017,199.6
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2018,207.89
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2019,220.77
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2020,222.27
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2021,260.51
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,"Despesas per capita com saneamento, R$ a preços de 2022",2022,316.01
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2010,4405706.86
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2011,5302963.44
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2012,5496171.02
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2013,5025268.2
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2014,5535683.23
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2015,5998656.12
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2016,7028773.45
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2017,7716953.4
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2018,8334015.44
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2019,6744512.47
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2020,8486474.06
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2021,10724446.17
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com os serviços de saneamento,2022,17386996.07
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2010,2337122.81
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2011,2714858.71
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2012,3168498.5
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2013,3007425.28
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2014,3387304.72
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2015,3654079.54
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2016,4279669.69
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2017,4313209.76
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2018,4655424.1
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2019,5004129.66
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2020,5434424.29
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2021,5862473.84
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com pessoal,2022,7354602.04
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2010,173859.6
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2011,185059.31
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2012,251243.45
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2013,229869.12
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2014,206797.6
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2015,174828.46
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2016,260191.32
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2017,365356.88
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2018,384911.1
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2019,394194.1
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2020,579387.4
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2021,1074745.17
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com produtos químicos,2022,1054307.43
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2010,319297.17
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2011,357254.69
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2012,374895.05
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2013,353007.46
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2014,413091.42
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2015,517860.81
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2016,640706.22
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2017,746213.52
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2018,953660.47
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2019,1094828.57
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2020,1213147.5
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2021,1503730.71
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com energia elétrica,2022,1665763.72
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2010,662849.41
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2011,608153.49
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2012,849604.78
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2013,314655.89
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2014,429668.62
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2015,588130.77
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2016,1362148.24
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2017,1759264.0
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2018,2019884.19
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2020,999677.34
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2021,1626305.66
+OPERAÇÕES DE SANEAMENTO,CUSTOS E RECEITAS,Custo com serviços de terceiros,2022,5594368.99
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2010,121.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2011,77.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2012,73.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2013,64.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2014,44.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2015,36.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2016,47.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2017,45.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2018,39.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2019,43.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2020,28.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2021,20.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais por doenças de veiculação hídrica,2022,26.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2010,120.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2011,77.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2012,73.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2013,64.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2014,42.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2015,35.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2016,45.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2017,44.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2018,39.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2019,40.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2020,26.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2021,20.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por diarreia,2022,25.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por dengue,2015,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por dengue,2016,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por leptospirose,2010,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por leptospirose,2014,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por leptospirose,2016,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por leptospirose,2017,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por leptospirose,2019,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por leptospirose,2020,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por malária,2022,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2010,64.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2011,38.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2012,34.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2013,37.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2014,24.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2015,17.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2016,25.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2017,23.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2018,12.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2019,17.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2020,16.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2021,13.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - mulheres,2022,17.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2010,57.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2011,39.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2012,39.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2013,27.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2014,20.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2015,19.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2016,22.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2017,22.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2018,27.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2019,26.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2020,12.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2021,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - homens,2022,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2010,52.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2011,30.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2012,40.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2013,38.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2014,12.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2015,13.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2016,19.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2017,14.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2018,15.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2019,14.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2020,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2021,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 0 a 4 anos,2022,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2010,22.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2011,18.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2012,13.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2013,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2014,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2015,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2016,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2017,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2018,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2019,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2020,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2021,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 5 a 14 anos,2022,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2010,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2011,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2012,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2013,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2014,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2015,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2016,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2017,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2018,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2019,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 15 a 19 anos,2022,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2010,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2011,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2012,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2013,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2014,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2015,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2016,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2017,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2018,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2019,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2020,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2021,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 20 a 29 anos,2022,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2010,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2011,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2012,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2013,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2014,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2015,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2016,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2017,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2018,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2019,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2020,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2021,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 30 a 39 anos,2022,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2010,19.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2011,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2012,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2013,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2014,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2015,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2016,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2017,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2018,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2019,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2020,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2021,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 40 a 59 anos,2022,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2010,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2011,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2012,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2013,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2014,11.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2015,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2016,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2017,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2018,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2019,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2020,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2021,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 60 a 79 anos,2022,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2010,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2011,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2012,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2013,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2014,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2015,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2016,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2017,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2018,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2019,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2020,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais - 80 anos ou mais,2022,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2010,120.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2011,76.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2012,69.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2013,58.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2014,33.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2015,31.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2016,35.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2017,37.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2018,22.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2019,29.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2020,21.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2021,20.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas brancas,2022,22.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pretas,2011,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pardas,2010,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pardas,2014,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pardas,2018,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pardas,2019,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pardas,2020,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações totais de pessoas autodeclaradas pardas,2022,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2010,19.736
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2011,12.456
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2012,11.716
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2013,9.937
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2014,6.76
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2015,5.474
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2016,7.074
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2017,6.705
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2018,5.771
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2019,6.302
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2020,4.066
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2021,2.878
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações totais por doenças de veiculação hídrica,2022,3.615
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2010,19.573
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2011,12.456
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2012,11.716
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2013,9.937
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2014,6.453
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2015,5.322
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2016,6.773
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2017,6.556
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2018,5.771
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2019,5.863
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2020,3.775
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2021,2.878
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por diarreia,2022,3.476
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por dengue,2015,0.152
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por dengue,2016,0.151
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por leptospirose,2010,0.163
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por leptospirose,2014,0.307
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por leptospirose,2016,0.151
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por leptospirose,2017,0.149
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por leptospirose,2019,0.44
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por leptospirose,2020,0.29
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por malária,2022,0.139
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2010,45182.49
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2011,28876.08
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2012,27637.38
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2013,28134.22
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2014,22856.1
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2015,14391.26
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2016,17980.67
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2017,15752.7
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2018,13439.4
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2019,16600.81
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2020,15300.56
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2021,7355.4
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por doenças de veiculação hídrica,2022,25182.17
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2010,44804.61
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2011,28876.08
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2012,27637.38
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2013,28134.22
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2014,19243.51
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2015,14103.5
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2016,17022.33
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2017,15412.77
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2018,13439.4
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2019,15493.87
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2020,11546.53
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2021,7355.4
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por diarreia,2022,24947.96
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por dengue,2015,287.76
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por dengue,2016,287.76
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por leptospirose,2010,377.88
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por leptospirose,2014,3612.59
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por leptospirose,2016,670.58
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por leptospirose,2017,339.93
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por leptospirose,2019,1106.94
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por leptospirose,2020,3754.03
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Despesas com internações por malária,2022,234.21
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2010,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2011,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2013,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2014,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2015,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2017,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2019,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2020,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças de veiculação hídrica,2021,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2010,0.326
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2011,0.162
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2013,0.155
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2014,0.307
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2015,0.152
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2017,0.149
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2019,0.147
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2020,0.145
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Taxa de óbitos por doenças de veiculação hídrica,2021,0.144
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2010,301.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2011,310.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2012,380.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2013,296.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2014,336.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2015,246.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2016,295.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2017,298.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2018,268.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2019,233.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2020,271.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2021,248.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias,2022,442.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2010,132.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2011,147.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2012,185.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2013,127.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2014,160.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2015,116.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2016,158.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2017,156.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2018,151.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2019,118.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2020,122.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2021,122.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em mulheres,2022,230.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2010,169.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2011,163.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2012,195.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2013,169.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2014,176.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2015,130.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2016,137.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2017,142.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2018,117.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2019,115.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2020,149.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2021,126.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias em homens,2022,212.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2010,98.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2011,70.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2012,99.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2013,86.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2014,61.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2015,48.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2016,50.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2017,66.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2018,46.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2019,67.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2020,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2021,50.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (0 a 4 anos de idade),2022,84.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2010,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2011,20.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2012,27.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2013,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2014,21.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2015,18.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2016,18.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2017,18.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2018,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2019,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2020,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2021,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (5 a 14 anos de idade),2022,23.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2010,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2011,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2012,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2013,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2014,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2015,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2016,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2017,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2018,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2019,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2020,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2021,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (15 a 19 anos de idade),2022,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2010,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2011,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2012,19.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2013,14.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2014,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2015,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2016,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2017,9.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2018,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2019,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2020,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2021,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (20 a 29 anos de idade),2022,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2010,16.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2011,11.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2012,15.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2013,18.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2014,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2015,8.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2016,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2017,14.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2018,12.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2019,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2020,15.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2021,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (30 a 39 anos de idade),2022,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2010,42.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2011,45.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2012,61.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2013,32.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2014,49.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2015,36.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2016,56.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2017,43.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2018,39.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2019,27.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2020,48.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2021,45.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (40 a 59 anos de idade),2022,59.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2010,78.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2011,95.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2012,82.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2013,68.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2014,90.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2015,67.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2016,63.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2017,67.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2018,80.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2019,72.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2020,115.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2021,77.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (60 a 79 anos de idade),2022,142.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2010,46.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2011,57.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2012,74.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2013,64.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2014,92.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2015,58.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2016,83.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2017,77.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2018,71.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2019,52.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2020,74.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2021,62.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias (mais de 80 anos de idade),2022,115.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2010,296.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2011,297.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2012,372.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2013,287.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2014,318.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2015,228.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2016,266.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2017,266.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2018,229.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2019,214.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2020,245.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2021,225.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas brancas,2022,412.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2010,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2011,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2012,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2013,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2014,10.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2015,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2016,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2017,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2018,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2019,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2020,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2021,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pretas,2022,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2011,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2013,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2014,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2015,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2016,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2017,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2018,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2019,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2020,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas amarelas,2021,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2010,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2011,4.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2012,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2013,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2014,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2015,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2016,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2017,5.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2018,13.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2019,2.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2020,7.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2021,6.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Internações por doenças respiratórias de pessoas autodeclaradas pardas,2022,11.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2010,320303.12
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2011,353184.01
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2012,380278.3
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2013,302260.99
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2014,430416.31
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2015,228655.55
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2016,403816.76
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2017,284610.96
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2018,253181.59
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2019,221124.45
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2020,311736.55
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2021,473930.96
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Custo das internações por doenças respiratórias,2022,551139.07
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2010,31.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2011,38.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2012,36.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2013,28.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2014,48.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2015,31.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2016,35.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2017,27.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2018,31.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2019,38.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2020,57.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2021,44.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias,2022,51.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias (0 a 4 anos de idade),2015,3.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Óbitos por doenças respiratórias (0 a 4 anos de idade),2017,1.0
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2010,49.095
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2011,50.148
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2012,60.987
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2013,45.959
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2014,51.621
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2015,37.404
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2016,44.4
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2017,44.405
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2018,39.658
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2019,34.15
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2020,39.351
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2021,35.687
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de internações por doenças respiratórias,2022,61.455
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2010,5.056
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2011,6.147
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2012,5.778
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2013,4.347
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2014,7.374
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2015,4.713
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2016,5.268
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2017,4.023
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2018,4.587
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2019,5.57
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2020,8.277
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2021,6.332
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias,2022,7.091
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias (0 a 4 anos de idade),2015,7.134
+BENEFÍCIOS DO SANEAMENTO,SAÚDE,Incidência de óbitos por doenças respiratórias (0 a 4 anos de idade),2017,2.399
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2010,1662.63
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2011,1821.69
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2012,1995.97
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2013,2186.92
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2014,2396.14
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2015,2625.37
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2016,2876.54
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2017,3151.73
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2018,3256.99
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas com saneamento,2019,6446.46
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2010,565.38
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2011,619.47
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2012,678.73
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2013,743.67
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2014,814.81
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2015,892.76
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2016,978.17
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2017,1071.75
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2018,1107.54
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda das pessoas sem saneamento,2019,2192.12
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2010,1207.72
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2011,1323.26
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2012,1449.85
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2013,1588.56
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2014,1740.53
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2015,1907.05
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2016,2089.49
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2017,2289.39
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2018,2365.85
+BENEFÍCIOS DO SANEAMENTO,PRODUTIVIDADE,Renda média do trabalho,2019,4682.66
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2010,9.15
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2011,9.23
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2012,9.32
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2013,9.4
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2014,9.48
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2015,9.57
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2016,9.66
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2017,9.75
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2018,9.84
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas com saneamento,2019,10.02
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2010,7.05
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2011,7.2
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2012,7.35
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2013,7.5
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2014,7.66
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2015,7.81
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2016,7.98
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2017,8.14
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2018,8.3
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade das pessoas sem saneamento,2019,8.46
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2010,8.21
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2011,8.32
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2012,8.43
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2013,8.55
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2014,8.67
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2015,8.78
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2016,8.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2017,9.02
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2018,9.14
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Escolaridade média da população,2019,9.31
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2010,3.7
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2011,3.15
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2012,2.68
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2013,2.28
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2014,1.94
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2015,1.65
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2016,1.41
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2017,1.2
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2018,1.02
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens com saneamento,2019,1.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2010,4.96
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2011,4.23
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2012,3.61
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2013,3.08
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2014,2.63
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2015,2.24
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2016,1.91
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2017,1.63
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2018,1.39
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar dos jovens sem saneamento,2019,1.36
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2010,4.59
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2011,3.91
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2012,3.33
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2013,2.83
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2014,2.41
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2015,2.05
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2016,1.75
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2017,1.49
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2018,1.27
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Atraso escolar médio,2019,1.25
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2011,529.45
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2012,534.49
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2013,532.54
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2014,531.18
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2015,521.18
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2016,519.19
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2017,539.34
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2018,548.86
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2019,543.06
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2020,557.72
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2021,553.63
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - com banheiro,2022,561.91
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2011,491.4
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2012,495.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2013,496.13
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2014,496.31
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2015,488.27
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2016,518.71
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2017,479.59
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2019,511.96
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2021,503.52
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM - sem banheiro,2022,451.1
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2011,529.2
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2012,508.53
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2013,514.33
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2014,513.75
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2015,521.05
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2016,519.19
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2017,539.15
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2018,548.86
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2019,542.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2020,557.72
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2021,553.47
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM,2022,561.77
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2011,551.23
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2012,565.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2013,552.68
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2014,521.27
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2015,485.28
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2016,503.71
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2017,546.92
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2018,554.47
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2019,547.37
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2020,541.37
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2021,553.35
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - com banheiro,2022,566.57
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2011,547.65
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2012,508.81
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2013,510.27
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2014,468.74
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2015,499.65
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2016,459.17
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2017,435.75
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2019,458.08
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2021,510.7
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em matemática no ENEM - sem banheiro,2022,405.5
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2011,551.21
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2012,527.49
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2013,531.47
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2014,495.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2015,485.33
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2016,503.6
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2017,546.56
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2018,554.47
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2019,546.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2020,541.37
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2021,553.21
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média no ENEM em matemática,2022,566.38
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2011,557.91
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2012,541.13
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2013,544.17
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2014,435.42
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2015,536.92
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2016,535.38
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2017,546.69
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2018,535.64
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2019,607.67
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2020,584.92
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2021,650.19
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - com banheiro,2022,650.21
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2011,500.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2012,492.66
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2013,493.41
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2014,329.39
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2015,450.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2016,540.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2017,500.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2019,610.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2021,560.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota na redação no ENEM - sem banheiro,2022,580.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2011,557.53
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2012,508.52
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2013,518.79
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2014,382.41
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2015,536.58
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2016,535.39
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2017,546.54
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2018,535.64
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2019,607.68
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2020,584.92
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2021,649.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média na redação no ENEM,2022,650.12
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2011,494.08
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2012,505.15
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2013,505.21
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2014,509.35
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2015,494.09
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2016,487.45
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2017,534.5
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2018,512.62
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2019,494.22
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2020,598.76
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2021,512.4
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - com banheiro,2022,512.66
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2011,490.88
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2012,468.93
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2013,472.43
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2014,482.61
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2015,493.25
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2016,500.07
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2017,507.75
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2019,472.53
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2021,485.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências da natureza no ENEM - sem banheiro,2022,406.1
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2011,494.05
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2012,480.78
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2013,488.82
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2014,495.98
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2015,494.09
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2016,487.48
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2017,534.41
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2018,512.62
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2019,494.11
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2020,598.76
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2021,512.31
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências da natureza no ENEM,2022,512.52
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2011,503.29
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2012,548.39
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2013,544.47
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2014,568.2
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2015,570.17
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2016,541.85
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2017,539.57
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2018,592.56
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2019,531.71
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2020,527.08
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2021,535.24
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - com banheiro,2022,544.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2011,477.3
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2012,519.95
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2013,516.26
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2014,548.59
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2015,540.25
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2016,561.6
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2017,438.1
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2019,502.23
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2021,485.35
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em ciências humanas no ENEM - sem banheiro,2022,461.8
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2011,503.12
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2012,529.26
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2013,530.36
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2014,558.4
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2015,570.06
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2016,541.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2017,539.25
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2018,592.56
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2019,531.55
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2020,527.08
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2021,535.08
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em ciências humanas no ENEM,2022,543.9
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2011,540.74
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2012,511.87
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2013,516.15
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2014,529.36
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2015,519.43
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2016,527.55
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2017,529.04
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2018,549.03
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2019,534.32
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2020,536.48
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2021,516.98
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - com banheiro,2022,536.11
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2011,441.18
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2012,489.16
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2013,488.28
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2014,508.69
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2015,458.18
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2016,532.73
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2017,516.35
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2019,516.95
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2021,476.55
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota em linguagens e códigos no ENEM - sem banheiro,2022,402.1
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2011,540.09
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2012,496.59
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2013,502.21
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2014,519.03
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2015,519.19
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2016,527.57
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2017,529.0
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2018,549.03
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2019,534.23
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2020,536.48
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2021,516.85
+BENEFÍCIOS DO SANEAMENTO,EDUCAÇÃO,Nota média em linguagens e códigos no ENEM,2022,535.94
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2010,430.54
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2011,456.98
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2012,485.05
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2013,514.84
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2014,546.46
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2015,580.03
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2016,615.65
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2017,653.47
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2018,675.29
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias com saneamento,2019,756.95
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2010,293.44
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2011,303.3
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2012,313.49
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2013,324.03
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2014,334.91
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2015,346.17
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2016,357.8
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2017,369.82
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2018,382.17
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Aluguel médio das moradias sem saneamento,2019,428.38
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2010,343.73
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2011,367.3
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2012,392.49
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2013,419.41
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2014,448.17
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2015,478.91
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2016,511.75
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2017,546.85
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2018,565.11
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Valor médio dos aluguéis,2019,633.44
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2010,1383.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2011,1401.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2012,1419.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2013,1437.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2014,1455.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2015,1474.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2016,1492.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2017,1511.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2018,1501.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2019,1558.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2020,1417.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Empregados no turismo,2021,1476.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2010,4.5
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2011,4.7
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2012,4.9
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2013,5.1
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2014,5.3
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2015,5.5
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2016,5.8
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2017,6.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2018,5.8
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2019,5.8
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2020,5.4
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Parcela dos empregados que trabalha no setor de turismo,2021,5.0
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2010,1159.3
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2011,1211.29
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2012,1265.61
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2013,1322.36
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2014,1381.67
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2015,1443.63
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2016,1508.37
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2017,1576.01
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2018,1563.22
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2019,3094.04
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - com saneamento,2021,3104.09
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2010,1115.83
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2011,1144.35
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2012,1173.6
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2013,1203.6
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2014,1234.37
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2015,1265.92
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2016,1298.28
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2017,1331.46
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2018,1320.66
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2019,2613.94
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda do trabalho no turismo - sem saneamento,2021,2622.43
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2010,1124.35
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2011,1182.04
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2012,1242.68
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2013,1306.44
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2014,1373.46
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2015,1443.93
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2016,1518.01
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2017,1595.89
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2018,1582.94
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2019,3133.07
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2020,2839.76
+BENEFÍCIOS DO SANEAMENTO,VALORIZAÇÃO AMBIENTAL,Renda média do trabalho no turismo,2021,3143.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2010,351.75
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2011,356.89
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2012,368.38
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2013,398.52
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2014,413.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2015,425.2
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2016,468.6
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2017,513.4
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2018,565.2
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2019,593.46
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2020,652.81
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2021,690.65
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de água,2022,724.5
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2011,5.14
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2012,11.49
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2013,30.14
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2014,14.48
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2015,12.2
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2016,43.4
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2017,44.8
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2018,51.8
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2019,28.26
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2020,59.35
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2021,37.84
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de água,2022,33.85
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de esgoto,2017,63.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de esgoto,2018,63.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de esgoto,2019,63.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de esgoto,2020,65.05
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de esgoto,2021,65.05
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Extensão da rede de esgoto,2022,65.5
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de esgoto,2017,63.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de esgoto,2020,1.87
+ESFORÇOS PARA UNIVERSALIZAÇÃO,REDES,Variação anual da rede de esgoto,2022,0.45
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2010,4904780.58
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2011,5315619.27
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2012,4164542.92
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2013,2447313.07
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2014,4122217.72
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2015,4748371.11
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2016,7825542.54
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2017,3488939.04
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2018,2603130.17
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2019,4546299.06
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2020,2667237.48
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2021,4308009.32
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos do prestador,2022,3633226.13
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2010,4904780.58
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2011,5315619.27
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2012,4164542.92
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2013,2447313.07
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2014,4122217.72
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2015,4748371.11
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2016,7825542.54
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2017,3488939.04
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2018,2603130.17
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2019,4546299.06
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2020,2667237.48
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2021,4308009.32
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,Investimentos totais,2022,3633226.13
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2010,12062006.53
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2011,11969744.99
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2012,8566186.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2013,4712513.1
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2014,7557201.42
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2015,7983392.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2016,12226264.3
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2017,5030426.41
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2018,3593583.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2019,5983251.82
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2020,3365695.41
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2021,4816663.39
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos do prestador, em R$ de 2022",2022,3633226.13
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2010,12062006.53
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2011,11969744.99
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2012,8566186.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2013,4712513.1
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2014,7557201.42
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2015,7983392.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2016,12226264.3
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2017,5030426.41
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2018,3593583.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2019,5983251.82
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2020,3365695.41
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2021,4816663.39
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos totais, em R$ de 2022",2022,3633226.13
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2010,196.74
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2011,193.63
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2012,137.48
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2013,73.17
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2014,116.1
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2015,121.39
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2016,184.01
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2017,74.96
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2018,53.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2019,87.69
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2020,48.87
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2021,69.31
+ESFORÇOS PARA UNIVERSALIZAÇÃO,ESFORÇO,"Investimentos per capita, em R$ de 2022",2022,50.52
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2010,82.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2011,91.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2012,61.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2013,42.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2014,56.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2015,49.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2016,69.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2017,45.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2018,30.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2019,50.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2020,28.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2021,37.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - investimentos,2022,28.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2010,40.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2011,44.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2012,30.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2013,21.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2014,27.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2015,24.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2016,33.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2017,22.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2018,14.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2019,24.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2020,14.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2021,18.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - investimentos,2022,13.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2010,48.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2011,53.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2012,35.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2013,24.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2014,32.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2015,28.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2016,40.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2017,26.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2018,17.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2019,29.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2020,16.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2021,21.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - investimentos,2022,16.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2010,170.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2011,188.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2012,127.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2013,87.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2014,115.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2015,101.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2016,142.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2017,92.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2018,62.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2019,104.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2020,58.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2021,76.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - investimentos,2022,57.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2010,5419475.32
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2011,6453965.48
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2012,4167510.45
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2013,1991800.59
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2014,3030674.55
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2015,3353142.54
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2016,5293108.6
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2017,2297490.96
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2018,1634552.55
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2019,2710382.78
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2020,1518414.44
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2021,2164133.17
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - investimentos, em R$ de 2022",2022,1632413.26
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2010,3834897.38
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2011,4566917.25
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2012,2948989.33
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2013,1409426.26
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2014,2144548.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2015,2372731.08
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2016,3745478.5
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2017,1625737.1
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2018,1156632.5
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2019,1917905.19
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2020,1074451.53
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2021,1531371.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - investimentos , em R$ de 2022",2022,1155118.71
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2010,5491344.42
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2011,6539553.22
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2012,4222776.91
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2013,2018214.38
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2014,3070865.13
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2015,3397609.45
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2016,5363301.91
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2017,2327958.6
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2018,1656228.79
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2019,2746325.88
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2020,1538550.54
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2021,2192832.31
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - investimentos, em R$ de 2022",2022,1654061.12
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2010,48679827.74
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2011,52131734.39
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2012,36801125.66
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2013,19739341.06
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2014,31605272.46
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2015,34587333.94
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2016,54505971.2
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2017,23290176.47
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2018,16841016.84
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2019,28434011.03
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2020,16197448.05
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2021,24137902.75
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - investimentos, em R$ de 2022",2022,18974662.24
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2010,68.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2011,71.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2012,60.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2013,62.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2014,65.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2015,64.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2016,76.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2017,75.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2018,82.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2019,75.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2020,87.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2021,92.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos diretos - operação,2022,101.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2010,57.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2011,60.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2012,50.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2013,52.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2014,55.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2015,54.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2016,64.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2017,63.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2018,69.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2019,63.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2020,73.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2021,77.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos indiretos - operação,2022,85.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2010,117.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2011,122.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2012,103.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2013,107.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2014,112.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2015,110.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2016,131.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2017,129.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2018,141.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2019,129.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2020,149.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2021,158.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Empregos induzidos - operação,2022,174.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2010,242.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2011,253.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2012,214.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2013,221.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2014,231.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2015,228.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2016,271.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2017,267.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2018,292.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2019,267.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2020,310.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2021,328.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,Emprego total - operação,2022,360.0
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2010,7730538.19
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2011,8226779.73
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2012,9087866.25
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2013,9813897.51
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2014,10844158.2
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2015,10654972.25
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2016,9455014.75
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2017,8999724.61
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2018,9439115.35
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2019,10120299.82
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2020,10284281.29
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2021,12163478.28
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda direta - operação, em R$ de 2022",2022,14251499.26
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2010,3764118.82
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2011,4005746.51
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2012,4425022.88
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2013,4778538.75
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2014,5280188.65
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2015,5188071.08
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2016,4603793.18
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2017,4382105.35
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2018,4596051.51
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2019,4927730.79
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2020,5007575.9
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2021,5922586.03
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda indireta - operação, em R$ de 2022",2022,6939275.8
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2010,5389993.74
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2011,5735990.19
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2012,6336368.95
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2013,6842582.6
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2014,7560915.34
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2015,7429008.48
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2016,6592357.36
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2017,6274913.61
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2018,6581271.75
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2019,7056216.7
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2020,7170550.14
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2021,8480790.1
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda induzida - operação, em R$ de 2022",2022,9936629.23
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2010,16884650.75
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2011,17968516.43
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2012,19849258.08
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2013,21435018.86
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2014,23685262.19
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2015,23272051.81
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2016,20651165.29
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2017,19656743.58
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2018,20616438.62
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2019,22104247.31
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2020,22462407.33
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2021,26566854.42
+ESFORÇOS PARA UNIVERSALIZAÇÃO,IMPACTOS,"Renda total - operação, em R$ de 2022",2022,31127404.29

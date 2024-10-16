@@ -1,0 +1,1162 @@
+[
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "POPULAÇÃO",
+        "l-i": "População"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "POPULAÇÃO",
+        "l-i": "População SNIS"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "POPULAÇÃO",
+        "l-i": "População urbana"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "MORADIA",
+        "l-i": "Moradias"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "MORADIA",
+        "l-i": "Moradias urbanas"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "MORADIA",
+        "l-i": "Densidade domiciliar"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "MORADIA",
+        "l-i": "Densidade domiciliar urbana"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "RENDA",
+        "l-i": "PIB"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "RENDA",
+        "l-i": "PIB per capita"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "RENDA",
+        "l-i": "PIB a preços de 2022"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "RENDA",
+        "l-i": "PIB per capita a preços de 2022"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "AREA",
+        "l-i": "Área do município"
+    },
+    {
+        "l-g": "DADOS GERAIS",
+        "l-s": "AREA",
+        "l-i": "Densidade demográfica"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Moradias com banheiro"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Moradias sem banheiro"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela das moradias com banheiro"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela das moradias sem banheiro"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Recebimento regular de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Recebimento irregular de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela com recebimento regular de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela com recebimento irregular de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população branca sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população preta sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população amarela sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população parda sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população indígena sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população branca sem acesso regular à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população preta sem acesso regular à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população amarela sem acesso regular à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população parda sem acesso regular à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população indígena sem acesso regular à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população branca sem acesso à coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população preta sem acesso à coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população amarela sem acesso à coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população parda sem acesso à coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Percentagem da população indígena sem acesso à coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População com acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população com acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População urbana com acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População urbana sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população urbana com acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população urbana sem acesso à água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População com coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População sem coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população com coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população sem coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População urbana com coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "População urbana sem coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população urbana com coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "COBERTURA",
+        "l-i": "Parcela da população urbana sem coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "PRODUÇÃO",
+        "l-i": "Consumo de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "PRODUÇÃO",
+        "l-i": "Consumo per capita de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "PRODUÇÃO",
+        "l-i": "Esgoto coletado"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "PRODUÇÃO",
+        "l-i": "Esgoto tratado"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "PRODUÇÃO",
+        "l-i": "Índice de esgoto tratado referido à água consumida"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "PRODUÇÃO",
+        "l-i": "Esgoto não tratado"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "EFICIÊNCIA",
+        "l-i": "Perdas na distribuição"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "EFICIÊNCIA",
+        "l-i": "Perdas no faturamento"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "EFICIÊNCIA",
+        "l-i": "Economias ativas por pessoal total (equivalente)"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "EFICIÊNCIA",
+        "l-i": "Economias ativas por pessoal próprio"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Tarifa de água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Tarifa de coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Tarifa dos serviços de saneamento"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Receita direta com água"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Receita direta com coleta de esgoto"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Receita direta e indireta total"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Receita direta e indireta total a preços de 2022"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Despesas per capita com saneamento"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Despesas per capita com saneamento, R$ a preços de 2022"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Custo com os serviços de saneamento"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Custo com pessoal"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Custo com produtos químicos"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Custo com energia elétrica"
+    },
+    {
+        "l-g": "OPERAÇÕES DE SANEAMENTO",
+        "l-s": "CUSTOS E RECEITAS",
+        "l-i": "Custo com serviços de terceiros"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais por doenças de veiculação hídrica"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por diarreia"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por febre amarela"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por dengue"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por leptospirose"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por malária"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por esquistossomose"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - mulheres"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - homens"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 0 a 4 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 5 a 14 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 15 a 19 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 20 a 29 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 30 a 39 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 40 a 59 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 60 a 79 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais - 80 anos ou mais"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais de pessoas autodeclaradas brancas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais de pessoas autodeclaradas pretas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais de pessoas autodeclaradas amarelas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais de pessoas autodeclaradas pardas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações totais de pessoas autodeclaradas indígenas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações totais por doenças de veiculação hídrica"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por diarreia"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por febre amarela"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por dengue"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por leptospirose"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por malária"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por esquistossomose"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por doenças de veiculação hídrica"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por diarreia"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por febre amarela"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por dengue"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por leptospirose"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por malária"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Despesas com internações por esquistossomose"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Óbitos por doenças de veiculação hídrica"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Óbitos por doenças de veiculação hídrica - 0 a 4 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Taxa de óbitos por doenças de veiculação hídrica"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Taxa de óbitos por doenças de veiculação hídrica - 0 a 4 anos"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias em mulheres"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias em homens"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (0 a 4 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (5 a 14 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (15 a 19 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (20 a 29 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (30 a 39 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (40 a 59 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (60 a 79 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias (mais de 80 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias de pessoas autodeclaradas brancas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias de pessoas autodeclaradas pretas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias de pessoas autodeclaradas amarelas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias de pessoas autodeclaradas pardas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Internações por doenças respiratórias de pessoas autodeclaradas indígenas"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Custo das internações por doenças respiratórias"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Óbitos por doenças respiratórias"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Óbitos por doenças respiratórias (0 a 4 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de internações por doenças respiratórias"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de óbitos por doenças respiratórias"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "SAÚDE",
+        "l-i": "Incidência de óbitos por doenças respiratórias (0 a 4 anos de idade)"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "PRODUTIVIDADE",
+        "l-i": "Afastamentos do trabalho"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "PRODUTIVIDADE",
+        "l-i": "Custo com os afastamentos do trabalho"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "PRODUTIVIDADE",
+        "l-i": "Renda das pessoas com saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "PRODUTIVIDADE",
+        "l-i": "Renda das pessoas sem saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "PRODUTIVIDADE",
+        "l-i": "Renda média do trabalho"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Escolaridade das pessoas com saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Escolaridade das pessoas sem saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Escolaridade média da população"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Atraso escolar dos jovens com saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Atraso escolar dos jovens sem saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Atraso escolar médio"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média no ENEM - com banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média no ENEM - sem banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média no ENEM"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em matemática no ENEM - com banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em matemática no ENEM - sem banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média no ENEM em matemática"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota na redação no ENEM - com banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota na redação no ENEM - sem banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média na redação no ENEM"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em ciências da natureza no ENEM - com banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em ciências da natureza no ENEM - sem banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média em ciências da natureza no ENEM"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em ciências humanas no ENEM - com banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em ciências humanas no ENEM - sem banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média em ciências humanas no ENEM"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em linguagens e códigos no ENEM - com banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota em linguagens e códigos no ENEM - sem banheiro"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "EDUCAÇÃO",
+        "l-i": "Nota média em linguagens e códigos no ENEM"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Aluguel médio das moradias com saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Aluguel médio das moradias sem saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Valor médio dos aluguéis"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Empregados no turismo"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Parcela dos empregados que trabalha no setor de turismo"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Renda do trabalho no turismo - com saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Renda do trabalho no turismo - sem saneamento"
+    },
+    {
+        "l-g": "BENEFÍCIOS DO SANEAMENTO",
+        "l-s": "VALORIZAÇÃO AMBIENTAL",
+        "l-i": "Renda média do trabalho no turismo"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "REDES",
+        "l-i": "Extensão da rede de água"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "REDES",
+        "l-i": "Variação anual da rede de água"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "REDES",
+        "l-i": "Extensão da rede de esgoto"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "REDES",
+        "l-i": "Variação anual da rede de esgoto"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos do prestador"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos do município"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos do governo estadual"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos totais"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos do prestador, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos do município, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos do governo estadual, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos totais, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "ESFORÇO",
+        "l-i": "Investimentos per capita, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Empregos diretos - investimentos"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Empregos indiretos - investimentos"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Empregos induzidos - investimentos"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Emprego total - investimentos"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda direta - investimentos, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda indireta - investimentos , em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda induzida - investimentos, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda total - investimentos, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Empregos diretos - operação"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Empregos indiretos - operação"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Empregos induzidos - operação"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Emprego total - operação"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda direta - operação, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda indireta - operação, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda induzida - operação, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "IMPACTOS",
+        "l-i": "Renda total - operação, em R$ de 2022"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Redução dos custos com a saúde (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Aumento da produtividade do trabalho (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda da valorização imobiliária (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda do turismo (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Ganhos com externalidades (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda gerada pelo investimento (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda gerada pelo aumento de operação (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Impostos ligados à produção** (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Geração de renda (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Total de benefícios (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Custo do investimento (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Aumento de despesas das famílias (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Total de custos (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Balanço custo-benefício (média anual)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Redução dos custos com a saúde (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Aumento da produtividade do trabalho (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda da valorização imobiliária (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda do turismo (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Ganhos com externalidades (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda gerada pelo investimento (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Renda gerada pelo aumento de operação (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Impostos ligados à produção** (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Geração de renda (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Total de benefícios (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Custo do investimento (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Aumento de despesas das famílias (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Total de custos (2020 a 2040)"
+    },
+    {
+        "l-g": "ESFORÇOS PARA UNIVERSALIZAÇÃO",
+        "l-s": "BALANÇO CUSTO-BENEFÍCIO DA UNIVERSALIZAÇÃO",
+        "l-i": "Balanço custo-benefício (2020 a 2040)"
+    }
+]
