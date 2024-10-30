@@ -6,63 +6,65 @@ path = "indicadores_saneamento.csv"
 data = pd.read_csv(path)
 data = data.drop(columns=["grupo", "subgrupo"])
 
+# sidebar
 st.sidebar.title("Saneamento em Araranguá")
+st.sidebar.markdown(
+    "Dados sobre saneamento básico e saúde pública em Araranguá, SC."
+)
 visualizacao = st.sidebar.radio(
     "Escolha a visualização",
     [
         "Cobertura de Abastecimento de Água",
         "Cobertura de Coleta de Esgoto",
-        "Consumo de Água",
-        "Impactos Educacionais",
-        "Custo do Saneamento",
+        "Internações",
+        "Óbitos",
     ],
 )
 
 anos_disponiveis = sorted(data["ano"].unique())
-anos_selecionados = st.sidebar.multiselect(
-    "Selecione os anos", anos_disponiveis, anos_disponiveis
-)
-
+anos_selecionados = (min(anos_disponiveis), max(anos_disponiveis))
 water_access = data[
     (data["indicador"] == "População com acesso à água")
-    & (data["ano"].isin(anos_selecionados))
+
 ]
 water_no_access = data[
     (data["indicador"] == "População sem acesso à água")
-    & (data["ano"].isin(anos_selecionados))
+
 ]
 
 sewage_access = data[
     (data["indicador"] == "População com coleta de esgoto")
-    & (data["ano"].isin(anos_selecionados))
+
 ]
 sewage_no_access = data[
     (data["indicador"] == "População sem coleta de esgoto")
-    & (data["ano"].isin(anos_selecionados))
+
 ]
 
 sewage_treated = data[
-    (data["indicador"] == "Esgoto tratado") & (data["ano"].isin(anos_selecionados))
+    (data["indicador"] == "Esgoto tratado")
 ]
 sewage_collected = data[
-    (data["indicador"] == "Esgoto coletado") & (data["ano"].isin(anos_selecionados))
+    (data["indicador"] == "Esgoto coletado")
 ]
 
 school_delay_with_sanitation = data[
     (data["indicador"] == "Atraso escolar dos jovens com saneamento")
-    & (data["ano"].isin(anos_selecionados))
+
 ]
 school_delay_without_sanitation = data[
     (data["indicador"] == "Atraso escolar dos jovens sem saneamento")
-    & (data["ano"].isin(anos_selecionados))
+
 ]
 
 if visualizacao == "Cobertura de Abastecimento de Água":
     st.title("Cobertura de Abastecimento de Água")
     st.write(
-        "Esta visualização mostra a cobertura de abastecimento de água ao longo dos anos, apresentando a população com e sem acesso à água. Compreender esses dados é fundamental para identificar áreas que necessitam de melhorias na infraestrutura hídrica e para garantir que todos tenham acesso a um recurso essencial."
+        "Esse painel apresenta a cobertura de abastecimento de água em Araranguá, SC. O acesso à água potável é um direito humano fundamental e um determinante essencial da saúde. A cobertura de abastecimento de água reflete a capacidade de uma comunidade de fornecer água limpa e segura a seus habitantes. Quando as pessoas não têm acesso a água tratada, aumentam os riscos de doenças transmitidas pela água, como diarreia e infecções gastrointestinais, que podem ser fatais, especialmente para crianças e populações vulneráveis. Além disso, a escassez de água pode levar à desidratação, afetando a saúde geral e a capacidade de enfrentar doenças. Melhorar a cobertura de abastecimento de água é, portanto, vital para garantir que todos tenham acesso a condições sanitárias adequadas, prevenindo surtos de doenças e promovendo um ambiente mais saudável. Aumentar a infraestrutura hídrica é uma prioridade para a saúde pública e a prosperidade das comunidades."
     )
+    year_range = st.slider("Ano", data["ano"].min(), data["ano"].max(), (data["ano"].min(), data["ano"].max()), 1)
     combined_data_water = pd.concat([water_access, water_no_access])
+    combined_data_water = combined_data_water[combined_data_water["ano"].between(year_range[0], year_range[1])]
 
     fig = px.bar(
         combined_data_water,
@@ -80,15 +82,17 @@ if visualizacao == "Cobertura de Abastecimento de Água":
         template="plotly_white",
     )
 
+    fig.update_xaxes(tickmode='linear')
     st.plotly_chart(fig)
 
 elif visualizacao == "Cobertura de Coleta de Esgoto":
     st.title("Cobertura de Coleta de Esgoto")
     st.write(
-        "Esta visualização exibe a evolução da cobertura de coleta de esgoto ao longo dos anos. Os dados mostram tanto a população com acesso à coleta de esgoto quanto aqueles que ainda não têm esse serviço. Essa informação é crucial para monitorar os avanços no saneamento e para planejar ações que melhorem a saúde pública."
+        "Esse painel apresenta a cobertura de coleta de esgoto em Araranguá, SC. O acesso a um sistema de esgoto eficiente é essencial para a saúde pública e o bem-estar das comunidades. A coleta de esgoto adequada ajuda a prevenir a contaminação do solo e da água, reduzindo a propagação de doenças infecciosas e melhorando a qualidade de vida. Quando o esgoto não é tratado, ele pode poluir o meio ambiente, causando danos à saúde e ao ecossistema. A falta de coleta de esgoto também pode levar a problemas de saneamento, como inundações e mau cheiro, afetando a qualidade de vida das pessoas. Investir em infraestrutura de esgoto é, portanto, uma prioridade para garantir a saúde pública e a sustentabilidade ambiental. A expansão da cobertura de coleta de esgoto é essencial para proteger a saúde das comunidades e promover um ambiente mais limpo e saudável."
     )
-
+    year_range = st.slider("Ano", data["ano"].min(), data["ano"].max(), (data["ano"].min(), data["ano"].max()), 1)
     combined_data_sewage = pd.concat([sewage_access, sewage_no_access])
+    combined_data_sewage = combined_data_sewage[combined_data_sewage["ano"].between(year_range[0], year_range[1])]
 
     fig = px.line(
         combined_data_sewage,
@@ -107,169 +111,69 @@ elif visualizacao == "Cobertura de Coleta de Esgoto":
         template="plotly_dark",
     )
 
+    fig.update_xaxes(tickmode='linear')
     st.plotly_chart(fig)
 
-elif visualizacao == "Impactos Educacionais":
-    st.title("Impactos Educacionais")
+
+if visualizacao == "Internações":
+    st.title("Internações Hospitalares")
     st.write(
-        "Nesta visualização, analisa-se o impacto do saneamento no atraso escolar dos jovens. Compara-se os dados de atraso escolar entre jovens com e sem acesso a serviços de saneamento. Essa análise destaca a importância do saneamento na educação e no desenvolvimento social, demonstrando como a infraestrutura adequada pode influenciar positivamente a vida dos estudantes."
+        "Esse painel apresenta as internações hospitalares em Araranguá, SC. As internações hospitalares são um indicador importante da saúde da população e refletem a necessidade de cuidados médicos e hospitalares. A análise das internações por faixa etária e por doenças específicas pode fornecer informações valiosas sobre as condições de saúde da população e as necessidades de atendimento médico. Identificar as faixas etárias mais afetadas por internações hospitalares pode ajudar a priorizar esforços em políticas de saúde e a proteger as populações mais vulneráveis. Além disso, a análise das tendências ao longo do tempo pode revelar mudanças na incidência de doenças e a eficácia das intervenções de saúde pública. A redução das internações hospitalares é um objetivo importante para melhorar a saúde da população e reduzir os custos do sistema de saúde."
     )
 
-    df_school_delay = pd.DataFrame(
-        {
-            "Ano": anos_disponiveis,
-            "Com Saneamento": school_delay_with_sanitation["valor"].values,
-            "Sem Saneamento": school_delay_without_sanitation["valor"].values,
-        }
-    )
+    age_range = st.slider("Faixa etária", 0, 99, (0, 99), 1)
+    year_range = st.slider("Ano", data["ano"].min(), data["ano"].max(), (data["ano"].min(), data["ano"].max()), 1)
+    only_respiratory = st.checkbox("Apenas respiratórias")
+    absolute = st.checkbox("Valores absolutos (sem classificação)")
 
-    df_school_delay = df_school_delay.melt(
-        id_vars="Ano",
-        value_vars=["Com Saneamento", "Sem Saneamento"],
-        var_name="Condição de Saneamento",
-        value_name="Atraso Escolar",
-    )
 
-    fig = px.bar(
-        df_school_delay,
-        x="Ano",
-        y="Atraso Escolar",
-        color="Condição de Saneamento",
-        barmode="group",
-        labels={
-            "Ano": "Ano",
-            "Atraso Escolar": "Atraso Escolar (%)",
-            "Condição de Saneamento": "Condição de Saneamento",
-        },
-        title="Indicadores de Atraso Escolar dos Jovens com e sem Saneamento ao longo dos anos",
-    )
+    initial_age = age_range[0]
+    final_age = age_range[1]
 
-    fig.update_layout(
-        xaxis_title="Ano",
-        yaxis_title="Atraso Escolar (%)",
-        legend_title="Condição de Saneamento",
-        template="plotly_white",
-    )
+    string_to_search = "Internações por doenças respiratórias" if only_respiratory else "Internações"
+    hospitalizations = data[data["indicador"].str.contains(string_to_search)]
 
-    st.plotly_chart(fig)
-    options = [
-        "Matemática",
-        "Redação",
-        "Linguagens e Códigos",
-        "Ciências Humanas",
-        "Ciências da Natureza",
-        "Média",
-    ]
-    selected_option = st.selectbox(
-        "Selecione a nota média no ENEM que deseja visualizar", options
-    )
-    correct_option = [
-        "Nota em matemática no ENEM",
-        "Nota na redação no ENEM",
-        "Nota em linguagens e códigos no ENEM",
-        "Nota em ciências humanas no ENEM",
-        "Nota em ciências da natureza no ENEM",
-        "Nota média no ENEM",
-    ]
-    selected_option = correct_option[options.index(selected_option)]
+    age_ranges = hospitalizations["indicador"].str.extract(r"(\d+) a (\d+) anos")
+    hospitalizations["idade_min"] = pd.to_numeric(age_ranges[0], errors='coerce')
+    hospitalizations["idade_max"] = pd.to_numeric(age_ranges[1], errors='coerce')
 
-    without_sanitation = data[
-        (data["indicador"] == f"{selected_option} - sem banheiro")
-        & (data["ano"].isin(anos_selecionados))
-    ]
-    with_sanitation = data[
-        (data["indicador"] == f"{selected_option} - com banheiro")
-        & (data["ano"].isin(anos_selecionados))
-    ]
-    df_enem = pd.concat([without_sanitation, with_sanitation])
+    hospitalizations = hospitalizations.dropna(subset=["idade_min", "idade_max"])
+    hospitalizations = hospitalizations[((hospitalizations["idade_min"] >= initial_age) | (hospitalizations["idade_max"] >= initial_age)) & ((hospitalizations["idade_min"] <= final_age) | (hospitalizations["idade_max"] <= final_age))]
 
-    fig = px.bar(
-        df_enem,
-        x="ano",
-        y="valor",
-        color="indicador",
-        barmode="group",
-        labels={"ano": "Ano", "valor": "Nota Média", "indicador": "Indicador"},
-        title=f"{selected_option} de alunos com e sem saneamento ao longo dos anos",
-    )
-
-    fig.update_layout(
-        xaxis_title="Ano",
-        yaxis_title="Nota Média",
-        legend_title="Indicador",
-        template="plotly_white",
-    )
-
+    hospitalizations = hospitalizations.groupby(["ano", "idade_min", "idade_max"])["valor"].sum().reset_index()
+    hospitalizations["faixa_etaria"] = hospitalizations.apply(lambda row: f"{int(row['idade_min'])} a {int(row['idade_max'])}", axis=1)
+    hospitalizations = hospitalizations[(hospitalizations["ano"] >= year_range[0]) & (hospitalizations["ano"] <= year_range[1])]
+    if  absolute:
+        hospitalizations = hospitalizations.groupby(["ano"])["valor"].sum().reset_index()
+        fig = px.line(hospitalizations, x="ano", y="valor", title="Internações hospitalares")
+    else:
+        fig = px.line(hospitalizations, x="ano", y="valor", color="faixa_etaria", title="Internações hospitalares por faixa etária")
+    fig.update_layout(xaxis_title="Ano", yaxis_title="Internações")
+    fig.update_traces(mode="lines+markers")
+    fig.update_xaxes(tickmode='linear')
     st.plotly_chart(fig)
 
-
-elif visualizacao == "Custo do Saneamento":
-    st.title("Custo do Saneamento")
+if visualizacao == "Óbitos":
+    st.title("Óbitos")
     st.write(
-        "Aqui, apresenta-se os custos associados aos serviços de saneamento ao longo dos anos, incluindo tarifas de água e serviços relacionados. Esta análise é importante para avaliar a viabilidade econômica do saneamento e a capacidade da população de arcar com esses custos, além de informar futuras políticas tarifárias."
+        "Esse painel apresenta os óbitos em Araranguá, SC. Os óbitos são um indicador crítico da saúde da população e refletem a incidência de doenças e condições de saúde. A análise dos óbitos por causa específica pode fornecer informações valiosas sobre as principais causas de morte e as tendências de saúde da população. Identificar as causas de óbito mais comuns pode ajudar a priorizar esforços em políticas de saúde e a prevenir mortes evitáveis. Além disso, a análise das tendências ao longo do tempo pode revelar mudanças na incidência de doenças e a eficácia das intervenções de saúde pública. A redução dos óbitos é um objetivo importante para melhorar a saúde da população e prevenir mortes prematuras."
     )
+    year_range = st.slider("Ano", data["ano"].min(), data["ano"].max(), (data["ano"].min(), data["ano"].max()), 1)
+    types = ["Doenças Respiratórias", "Doenças de Veiculação Hídrica", "Todas"]
+    cause = st.selectbox("Causa", types)
 
-    df_cost = data[data["indicador"] == "Custo com os serviços de saneamento"]
-    fig = px.line(
-        df_cost,
-        x="ano",
-        y="valor",
-        labels={"ano": "Ano", "valor": "Custo (em reais)"},
-        title="Custo com os serviços de saneamento ao longo dos anos",
-    )
+    deaths = data[data["indicador"].str.contains("Óbitos")]
+    deaths["ano"] = deaths["ano"].astype(int)
+    deaths = deaths[deaths["ano"].between(year_range[0], year_range[1])]
 
-    fig.update_layout(
-        xaxis_title="Ano", yaxis_title="Custo (em reais)", template="plotly_dark"
-    )
+    if cause == "Doenças Respiratórias":
+        deaths = deaths[deaths["indicador"].str.contains("respiratórias")]
+    elif cause == "Doenças de Veiculação Hídrica":
+        deaths = deaths[deaths["indicador"].str.contains("hídrica")]
 
-    st.plotly_chart(fig)
+    deaths = deaths.groupby(["ano"])["valor"].sum().reset_index()
 
-    df_tariff = data[
-        data["indicador"].isin(["Tarifa de água", "Tarifa dos serviços de saneamento"])
-    ]
-
-    fig = px.line(
-        df_tariff,
-        x="ano",
-        y="valor",
-        color="indicador",
-        labels={"ano": "Ano", "valor": "Tarifa (em reais)", "indicador": "Indicador"},
-        title="Tarifas de água e dos serviços de saneamento ao longo dos anos",
-    )
-
-    fig.update_layout(
-        xaxis_title="Ano",
-        yaxis_title="Tarifa (em reais)",
-        legend_title="Indicador",
-        template="plotly_white",
-    )
-
-    st.plotly_chart(fig)
-
-elif visualizacao == "Consumo de Água":
-    st.title("Consumo de Água")
-    st.write(
-        "Nesta visualização, analisa-se o consumo de água ao longo dos anos, mostrando a quantidade de água consumida pela população. Compreender esses dados é fundamental para avaliar a demanda por água e para planejar a gestão dos recursos hídricos. Além disso, o consumo per capita de água é um indicador importante para monitorar a eficiência no uso da água e a sustentabilidade ambiental."
-    )
-
-    # Selecionar per capita ou não
-    per_capita = st.checkbox("Consumo per capita de água", value=True)
-    indicador = "Consumo per capita de água" if per_capita else "Consumo de água"
-
-    df_water_consumption = data[data["indicador"] == indicador]
-
-    fig = px.line(
-        df_water_consumption,
-        x="ano",
-        y="valor",
-        labels={"ano": "Ano", "valor": "Consumo de Água (em litros)"},
-        title="Consumo de água ao longo dos anos",
-    )
-
-    fig.update_layout(
-        xaxis_title="Ano",
-        yaxis_title="Consumo de Água (em litros)",
-        template="plotly_white",
-    )
-
+    fig = px.line(deaths, x="ano", y="valor", title="Óbitos")
+    fig.update_layout(xaxis_title="Ano", yaxis_title="Óbitos")
+    fig.update_traces(mode="lines+markers")
     st.plotly_chart(fig)
