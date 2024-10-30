@@ -2,63 +2,101 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-def load_data(file):
-    df = pd.read_excel(file)
-    return df
+#agrupar as apresentações de medicamentos em categorias
+def agrupar_apresentacao(apresentacao):
+    apresentacao = apresentacao.lower()  #converter p minusculas
+    if "comprimido" in apresentacao:
+        return "Comprimido"
+    elif "solução oral" in apresentacao:
+        return "Solução Oral"
+    elif "suspensão oral" in apresentacao:
+        return "Suspensão Oral"
+    elif "xarope" in apresentacao:
+        return "Xarope"
+    elif "cápsula" in apresentacao:
+        return "Cápsula"
+    elif "injeção" in apresentacao or "injetável" in apresentacao:
+        return "Injeção"
+    elif "creme" in apresentacao:
+        return "Creme"
+    elif "gel" in apresentacao:
+        return "Gel"
+    elif "pomada" in apresentacao:
+        return "Pomada"
+    elif "loção" in apresentacao:
+        return "Loção"
+    elif "aerossol" in apresentacao or "inalação" in apresentacao:
+        return "Aerossol"
+    elif "xampu" in apresentacao:
+        return "Xampu"
+    elif "pó para solução" in apresentacao:
+        return "Pó para Solução"
+    elif "pasta" in apresentacao:
+        return "Pasta"
+    else:
+        return "Outros"
 
-uploaded_file = st.sidebar.file_uploader("Envie o arquivo de medicamentos (.xlsx)", type="xlsx")
+def exibir():
+    path = "Planilha-REMUME.xlsx"
+    df = pd.read_excel(path)
 
-if uploaded_file:
-    df = load_data(uploaded_file)
-
-    st.title("Consulta de Medicamentos - Prefeitura de Araranguá")
-    st.markdown("---")
-
-    pagina = st.sidebar.radio(
-        "Navegue pelas páginas:",
-        ["Início", "Disponibilidade de Medicamentos", "Análise de Dados"]
+    #menu para navegar
+    st.sidebar.title("Medicamentos em Araranguá")
+    visualizacao = st.sidebar.radio(
+        "Visualizações disponíveis:",
+        ["Disponibilidade de Medicamentos", "Apresentações de Medicamentos", "Distribuição por Unidade de Saúde", "Classes de Medicamentos"]
     )
 
-    if pagina == "Início":
-        st.header("Bem-vindo ao Sistema de Consulta de Medicamentos")
-        st.markdown(
-            """
-            Esta aplicação permite que você consulte a **disponibilidade de medicamentos** oferecidos pela Prefeitura de Araranguá.
-            
-            ### Funcionalidades:
-            - Verifique se um determinado medicamento está disponível no sistema de saúde local.
-            - Use o menu à esquerda para navegar entre as páginas:
-                - **Disponibilidade de Medicamentos**: Para consultar se um medicamento específico está disponível.
-                - **Análise de Dados**: Para ver gráficos de análise dos medicamentos.
-            """
-        )
-        
-        st.markdown(
-            """
-            <div style='text-align: center;'>
-                <img src='https://www.ararangua.sc.gov.br/img/logo.png' width='150'/>
-            </div>
-            """, 
-            unsafe_allow_html=True
-        )
+    if visualizacao == "Disponibilidade de Medicamentos":
+        st.title("Disponibilidade de Medicamentos")
+        st.markdown("""<div style="background-color:#D6F3E9; padding:15px; border-radius:8px;">
+                        <p style="font-size:14px; color:#555555;">Esta funcionalidade permite verificar se um medicamento específico está disponível na rede de saúde do município. 
+                        Ao buscar o medicamento desejado, o sistema retornará os locais onde ele pode ser encontrado, proporcionando uma busca rápida e facilitada para os cidadãos.</p>
+                        </div>""", unsafe_allow_html=True)
 
-    elif pagina == "Disponibilidade de Medicamentos":
-        st.header("Verifique a Disponibilidade do Medicamento")
         medicamento_input = st.text_input("Digite o nome do medicamento:")
-        
+        #verificar se o medicamento esta presente no dataset
         if medicamento_input:
             normalized_input = medicamento_input.lower()
             filtered_df = df[df['Medicamento'].str.lower().str.contains(normalized_input)]
 
             if not filtered_df.empty:
-                st.success(f"O medicamento '{medicamento_input}' está disponível.")
+                st.success(f"✅ O medicamento '{medicamento_input}' está disponível.")
                 local_de_acesso = filtered_df['Local de acesso'].unique()
-                st.write(f"O medicamento está disponível nos seguintes locais de acesso: {', '.join(local_de_acesso)}")
+                st.write("Disponível nos locais:")
+                st.markdown(", ".join(f"`{loc}`" for loc in local_de_acesso))
             else:
-                st.warning(f"O medicamento '{medicamento_input}' não está disponível.")
+                st.warning(f"⚠️ O medicamento '{medicamento_input}' não está disponível.")
 
-    elif pagina == "Análise de Dados":
-        st.header("Análise de Dados dos Medicamentos por Unidade de Saúde")
+#aba de medicamentos por apresentacao
+    elif visualizacao == "Apresentações de Medicamentos":
+        st.title("Apresentações de Medicamentos")
+        st.markdown("""<div style="background-color:#D6F3E9; padding:15px; border-radius:8px;">
+                        <p style="font-size:14px; color:#555555;">Esta visualização mostra as diferentes apresentações dos medicamentos disponíveis na rede de saúde, 
+                        agrupadas em categorias como comprimidos, xaropes, injeções, entre outras. Compreender a distribuição das formas de apresentação auxilia no planejamento e no atendimento às necessidades específicas dos pacientes.</p>
+                        </div>""", unsafe_allow_html=True)
+
+        if not df.empty:
+            df['Apresentação Agrupada'] = df['Apresentação'].apply(agrupar_apresentacao)
+            presentation_count = df['Apresentação Agrupada'].value_counts()
+
+            presentation_fig = px.bar(
+                x=presentation_count.index,
+                y=presentation_count.values,
+                labels={'x': 'Apresentação Agrupada', 'y': 'Quantidade de Medicamentos'},
+                title="Medicamentos por Apresentação Agrupada",
+                color=presentation_count.index,
+                color_discrete_sequence=px.colors.qualitative.Set2
+            )
+            st.plotly_chart(presentation_fig)
+
+#aba de distribuicao por US
+    elif visualizacao == "Distribuição por Unidade de Saúde":
+        st.title("Distribuição por Unidade de Saúde")
+        st.markdown("""<div style="background-color:#D6F3E9; padding:15px; border-radius:8px;">
+                        <p style="font-size:14px; color:#555555;">Esta visualização apresenta o número de medicamentos disponíveis em cada unidade de saúde, como Farmácia Bom Pastor e UBSs. 
+                        A análise desses dados permite uma visão mais clara da oferta de medicamentos por local, ajudando a identificar onde há maior ou menor disponibilidade de medicamentos.</p>
+                        </div>""", unsafe_allow_html=True)
 
         if not df.empty:
             farmacia_count = df[df['Local de acesso'].str.contains("Farmácia Bom Pastor", case=False, na=False)].shape[0]
@@ -74,6 +112,20 @@ if uploaded_file:
             )
             st.plotly_chart(bar_fig)
 
+#aba de medicamentos por classe
+    elif visualizacao == "Classes de Medicamentos":
+        st.title("Distribuição por Classe de Medicamentos")
+        st.markdown(
+            "Esta visualização exibe a distribuição dos medicamentos de acordo com suas classes terapêuticas. "
+            "Essa categorização facilita a compreensão sobre a variedade de medicamentos disponíveis, permitindo identificar quais classes estão mais representadas na rede de saúde."
+        )
+        st.markdown("""
+            <div style="background-color:#FFEBCC; padding:10px; border-radius:5px; border: 1px solid #FFA500;">
+                <p style="font-size:14px; color:#FFA500; margin: 0;">💡 Para melhor visualização, clique nas setas à direita para ver em tela cheia.</p>
+            </div>
+        """, unsafe_allow_html=True)
+
+        if not df.empty:
             class_distribution = df['Classe'].value_counts()
 
             pie_fig = px.pie(
@@ -81,65 +133,10 @@ if uploaded_file:
                 values=class_distribution.values, 
                 names=class_distribution.index,
                 title="Distribuição de Medicamentos por Classe",
-                color_discrete_sequence=px.colors.qualitative.Set1,
-                height=1000, 
-                width=1000   
+                color_discrete_sequence=px.colors.qualitative.Set1
             )
             st.plotly_chart(pie_fig)
 
-            presentation_count = df['Apresentação'].value_counts()
-            presentation_fig = px.bar(
-                x=presentation_count.index,
-                y=presentation_count.values,
-                labels={'x': 'Apresentação', 'y': 'Quantidade de Medicamentos'},
-                title="Medicamentos por Apresentação",
-                color=presentation_count.index,
-                color_discrete_sequence=px.colors.qualitative.Set2,
-                height=1000, 
-                width=1000  
-            )
-            st.plotly_chart(presentation_fig)
 
-            access_summary = df['Local de acesso'].value_counts().reset_index()
-            access_summary.columns = ['Local de Acesso', 'Quantidade de Medicamentos']
-            st.subheader("Quantidade de Medicamentos por Local de Acesso")
-            st.table(access_summary)
-
-            unique_classes = df['Classe'].unique()
-            selected_class = st.selectbox("Selecione uma Classe de Medicamento:", unique_classes)
-
-            filtered_meds = df[df['Classe'] == selected_class]
-
-            if not filtered_meds.empty:
-                st.subheader(f"Medicamentos da Classe: {selected_class}")
-                st.write(filtered_meds[['Medicamento', 'Apresentação', 'Local de acesso']])
-
-                med_count_fig = px.bar(
-                    filtered_meds, 
-                    x='Medicamento', 
-                    title=f"Medicamentos da Classe: {selected_class}",
-                    labels={'Medicamento': 'Medicamento'},
-                    color='Apresentação',
-                    color_discrete_sequence=px.colors.qualitative.Set2
-                )
-                st.plotly_chart(med_count_fig)
-            else:
-                st.warning("Não há medicamentos disponíveis para a classe selecionada.")
-
-            bubble_fig = px.scatter(
-                class_distribution.reset_index(),
-                x='index',
-                y=class_distribution.values,
-                size=class_distribution.values,
-                color='index',
-                labels={'x': 'Classe', 'y': 'Quantidade de Medicamentos'},
-                title="Distribuição de Medicamentos por Classe (Gráfico de Bolhas)",
-                size_max=60,
-                color_discrete_sequence=px.colors.qualitative.Set3,
-                height=1000, 
-                width=1000   
-            )
-            st.plotly_chart(bubble_fig)
-
-st.markdown("---")
-st.markdown("Desenvolvido por [PyAnalytics](https://www.linkedin.com/company/pyanalytics/posts/?feedView=all)")
+    st.markdown("---")
+    st.markdown("Dados obtidos a partir do [REMUME](http://saude.ararangua.sc.gov.br:81/site/images/arquivos/REMUME.pdf). Projeto desenvolvido por [PyAnalytics](https://www.linkedin.com/company/pyanalytics/posts/?feedView=all)")
