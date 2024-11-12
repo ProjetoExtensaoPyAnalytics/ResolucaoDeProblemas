@@ -15,12 +15,27 @@ VACINAS_INFO = {
         'dose': 'Uma dose - Reforço a cada 10 anos ou 5 anos em caso de ferimentos graves',
         'doencas': 'Difteria, Tétano e Coqueluche'
     },
+    'DTP': {
+        'nome_completo': 'Adsorvida Difteria, Tétano e pertussis (DTP)',
+        'dose': '3 doses (2, 4 e 6 meses)',
+        'doencas': 'Difteria, tétano e coqueluche'
+    },
+    'DTP REF (4 e 6 anos)': {
+        'nome_completo': 'Adsorvida Difteria, Tétano e pertussis (DTP)',
+        'dose': 'Reforço aos 4 anos',
+        'doencas': 'Difteria, tétano e coqueluche'
+    },
+    'DTP (1º Reforço)': {
+        'nome_completo': 'Adsorvida Difteria, Tétano e pertussis (DTP)',
+        'dose': 'Primeiro reforço aos 15 meses',
+        'doencas': 'Difteria, tétano e coqueluche'
+    },
     'Hepatite B': {
         'nome_completo': 'Hepatite B (recombinante)',
         'dose': 'Dose única ao nascer',
         'doencas': 'Hepatite B'
     },
-    'Hepatite B idade = 30 dias': {
+    'Hepatite B (< 30 Dias)': {
         'nome_completo': 'Hepatite B (recombinante)',
         'dose': 'Dose inicial até 30 dias de vida',
         'doencas': 'Hepatite B'
@@ -29,16 +44,6 @@ VACINAS_INFO = {
         'nome_completo': 'Adsorvida Difteria, Tétano, pertussis, Hepatite B (recombinante) e Haemophilus influenzae B (conjugada)',
         'dose': '3 doses (2, 4 e 6 meses)',
         'doencas': 'Difteria, Tétano, Coqueluche, Hepatite B e infecções causadas pelo Haemophilus influenzae B'
-    },
-    'DTP': {
-        'nome_completo': 'Adsorvida Difteria, Tétano e pertussis (DTP)',
-        'dose': '3 doses + reforços',
-        'doencas': 'Difteria, tétano e coqueluche'
-    },
-    'DTP REF (4 e 6 anos)': {
-        'nome_completo': 'Adsorvida Difteria, Tétano e pertussis (DTP)',
-        'dose': 'Reforço aos 4 anos',
-        'doencas': 'Difteria, tétano e coqueluche'
     },
     'Polio Injetável (VIP)': {
         'nome_completo': 'Poliomielite 1, 2 e 3 (inativada) - (VIP)',
@@ -70,12 +75,12 @@ VACINAS_INFO = {
         'dose': '2 doses (2 e 4 meses)',
         'doencas': 'Diarreia por rotavírus (Gastroenterites)'
     },
-    'Meningo C (1ª Reforço)': {
+    'Meningo C': {
         'nome_completo': 'Meningocócica C (conjugada)',
         'dose': '2 doses (3 e 5 meses)',
         'doencas': 'Doença invasiva causada pela Neisseria meningitidis do sorogrupo C'
     },
-    'Meningococo C (1º ref)': {
+    'Meningo C (1ª Reforço)': {
         'nome_completo': 'Meningocócica C (conjugada)',
         'dose': 'Reforço aos 12 meses',
         'doencas': 'Doença invasiva causada pela Neisseria meningitidis do sorogrupo C'
@@ -109,6 +114,11 @@ VACINAS_INFO = {
         'nome_completo': 'Varicela (monovalente)',
         'dose': '1 dose aos 4 anos',
         'doencas': 'Varicela'
+    },
+    'Sarampo': {
+        'nome_completo': 'Sarampo (monovalente)',
+        'dose': '1 dose aos 12 meses',
+        'doencas': 'Sarampo'
     }
 }
 
@@ -118,6 +128,15 @@ cobertura_ararangua = pd.read_csv('cobertura_vacinal_ararangua_atualizado.csv', 
 # Converter índice para numérico
 cobertura_ararangua.index = pd.to_numeric(cobertura_ararangua.index)
 
+# Filtrar apenas os anos de 2014 até 2024
+cobertura_ararangua = cobertura_ararangua[cobertura_ararangua.index >= 2014]
+
+# Remover as colunas da Tetravalente e Sarampo
+colunas_para_remover = ['Tetravalente (DTP/Hib)', 'Sarampo']
+for coluna in colunas_para_remover:
+    if coluna in cobertura_ararangua.columns:
+        cobertura_ararangua = cobertura_ararangua.drop(coluna, axis=1)
+
 # Título principal e introdução
 st.write(""" # Cobertura vacinal em Araranguá """)
 st.write("""
@@ -126,10 +145,10 @@ Essa informação é importante pois permite avaliar a efetividade das campanhas
 """)
 
 # Barra lateral para selecionar a visualização
-st.sidebar.title("Navegação")
+st.sidebar.title("Cobertura Vacinal")
 visualization = st.sidebar.radio(
     "Escolha a visualização:",
-    ["Análise Temporal", "Panorama Anual"]
+    ["Análise Temporal", "Análise por ano"]
 )
 
 # Seção de Evolução Temporal
@@ -207,34 +226,42 @@ if visualization == "Análise Temporal":
         
         # Informações das vacinas selecionadas
         st.write("## Informações sobre as vacinas selecionadas:")
+
+        if 'Febre Amarela' in vacina_selecionada:
+            st.info("""
+                    **Nota sobre a Febre Amarela:** Os valores muito baixos (próximos a 0%) antes de 2018 provavelmente se devem a diferenças na metodologia de registro dos dados. 
+                    """)
+        if 'Tetra Viral (SRC+VZ)' in vacina_selecionada:
+            st.info("""
+                    **Nota sobre a Tetra Viral:** A vacina apresenta uma queda significativa a partir de 2021 (21.91%) e foi descontinuada após 2022, sendo substituída pelo uso da Tríplice Viral (sarampo, caxumba e rubéola) em conjunto com a Varicela aplicada separadamente.
+                    """)
         
         for vacina in vacina_selecionada:
             if vacina in VACINAS_INFO:
                 info = VACINAS_INFO[vacina]
-                st.write(f"### {info['nome_completo']}")
-                st.write(f"**Esquema de doses:** {info['dose']}")
-                st.write(f"**Doenças prevenidas:** {info['doencas']}")
-                st.write("---")
+                with st.expander(f"{vacina} ", expanded=True):
+                    st.markdown(f"""
+                    **Doenças prevenidas:** {info['doencas']}  
+                    **Esquema de doses:** {info['dose']}  
+                    """)
             else:
-                st.write(f"### {vacina}")
-                st.write("Informações detalhadas não disponíveis para esta vacina.")
-                st.write("---")
-    else:
-        st.write("Por favor, selecione pelo menos uma vacina para visualizar os dados.")
+                st.write("Por favor, selecione pelo menos uma vacina para visualizar os dados.")
 
 # Seção do Panorama Anual
-elif visualization == "Panorama Anual":
+elif visualization == "Análise por ano":
     st.write("""
-    ## Panorama Anual da Cobertura Vacinal
+    ## Análise por ano da Cobertura Vacinal
     
     Esta visualização apresenta um comparativo da cobertura de todas as vacinas para o ano selecionado. 
     As vacinas são ordenadas da maior para a menor cobertura, permitindo identificar rapidamente 
     quais imunizantes atingiram as metas estabelecidas e quais precisam de atenção especial. 
     """)
 
+# Continuação do código anterior...
+    
     # Seletor de ano para o mapa de calor
     ano_heatmap = st.selectbox(
-        "Selecione o ano para visualizar o mapa de calor",
+        "Selecione o ano para visualizar o panorama anual",
         options=sorted(cobertura_ararangua.index.unique(), reverse=True),
         index=0
     )
@@ -349,6 +376,7 @@ elif visualization == "Panorama Anual":
     - 🟡 >70%: Cobertura moderada
     - 🟢 ≥95%: Meta de cobertura atingida
     """)
+
 # Fonte dos dados (fora dos blocos condicionais)
 st.write("""
 **Fonte dos dados:** 
