@@ -104,11 +104,16 @@ cores_personalizadas = [
 indicadores_unicos = df3_melted['Indicador'].unique()
 anos_unicos = sorted(df3_melted['Ano'].unique())
 
-visualizacao = st.sidebar.radio("Selecione o tipo de visualização:", ["Óbitos por Causa", "Óbitos por Sexo"])
+# Barra lateral para selecionar a visualização
+st.sidebar.title("Óbitos")
+visualization = st.sidebar.radio(
+    "Escolha a visualização:",
+    ["por Causa", "por Sexo"]
+)
 
-if visualizacao == "Óbitos por Causa":
+if visualization == "por Causa":
 
-    st.write(""" # Causas de Óbitos por Doenças no Município de Araranguá """)
+    st.write(""" # Principais Causas de Óbitos por Doenças no Município de Araranguá """)
     st.write(""" Este painel apresenta dados históricos sobre as principais doenças que causaram óbitos entre os cidadãos do município de Araranguá, em Santa Catarina. Analisar as causas e taxa de mortalidade de uma população é um indicador essencial para avaliar a saúde da população e direcionar políticas públicas de prevenção, diagnóstico e tratamento das doenças que mais afetam a populção geral.
    
     """)
@@ -149,7 +154,7 @@ if visualizacao == "Óbitos por Causa":
     else:
         st.write("Nenhum dado disponível para os filtros selecionados.")
 
-elif visualizacao == "Óbitos por Sexo":
+elif visualization == "por Sexo":
 
     st.write(""" # Principais Causas de Óbitos por Doenças em Pessoas do Sexo Masculino e Feminino""")
     st.write("""
@@ -246,5 +251,11 @@ elif visualizacao == "Óbitos por Sexo":
         yaxis_range=[0, df_sexo_agrupado_feminino['Valor'].max() * 1.1]
     )
     st.plotly_chart(fig_feminino, use_container_width=True)
+
+# Fonte dos dados (fora dos blocos condicionais)
+st.write("""
+**Fonte dos dados:** 
+- [IBGE](https://cidades.ibge.gov.br/brasil/sc/ararangua/pesquisa/17/15752)
+""")
 
 
