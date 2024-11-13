@@ -148,13 +148,13 @@ Essa informação é importante pois permite avaliar a efetividade das campanhas
 st.sidebar.title("Cobertura Vacinal")
 visualization = st.sidebar.radio(
     "Escolha a visualização:",
-    ["Análise Temporal", "Análise por ano"]
+    ["Ao longo do tempo", "Por ano"]
 )
 
 # Seção de Evolução Temporal
-if visualization == "Análise Temporal":
+if visualization == "Ao longo do tempo":
     st.write("""
-    ## Análise Temporal da Cobertura Vacinal
+    ## Cobertura Vacinal ao longo do tempo
     
     Este gráfico permite acompanhar a evolução da cobertura vacinal ao longo dos anos. 
     Você pode selecionar múltiplas vacinas para comparação e ajustar o período de análise 
@@ -248,9 +248,9 @@ if visualization == "Análise Temporal":
                 st.write("Por favor, selecione pelo menos uma vacina para visualizar os dados.")
 
 # Seção do Panorama Anual
-elif visualization == "Análise por ano":
+elif visualization == "Por ano":
     st.write("""
-    ## Análise por ano da Cobertura Vacinal
+    ## Cobertura Vacinal por ano
     
     Esta visualização apresenta um comparativo da cobertura de todas as vacinas para o ano selecionado. 
     As vacinas são ordenadas da maior para a menor cobertura, permitindo identificar rapidamente 
