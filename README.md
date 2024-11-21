@@ -29,9 +29,9 @@ A aplicação foi desenvolvida utilizando o framework **Streamlit**, uma ferrame
 ![Página Inicial](https://github.com/user-attachments/assets/6e62f541-5305-43ee-aef4-0912f5516535)
 
 #### Alguns exemplos das abas
-![Aba de Vacinas]![image](https://github.com/user-attachments/assets/c622ca72-491b-4d75-ae37-67ba1a5c9b25)
+![Aba de Vacinas](https://github.com/user-attachments/assets/c622ca72-491b-4d75-ae37-67ba1a5c9b25)
 
-![Aba de Saneamento]![image](https://github.com/user-attachments/assets/947d5463-2dc6-4460-bac3-c62221937e5a)
+![Aba de Saneamento](https://github.com/user-attachments/assets/947d5463-2dc6-4460-bac3-c62221937e5a)
 
 
 
