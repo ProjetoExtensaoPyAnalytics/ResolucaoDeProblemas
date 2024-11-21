@@ -25,6 +25,7 @@ Convidamos colaboradores interessados em ciência de dados, Python, visualizaç�
 ## Pipeline de construção dos painéis 
 
 ## Licença
+[Vacinas]Vacinas
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
