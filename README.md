@@ -13,12 +13,12 @@ O objetivo do projeto é **promover maior disseminação de informações** e ap
 
 Para a realização deste projeto, utilizamos a metodologia **Scrum**, que permite uma organização eficiente do trabalho em **sprints** com entregas incrementais. Cada membro do grupo foi responsável por desenvolver e implementar uma aba de navegação específica dentro da aplicação.
 
-As abas da aplicação incluem:
-1. **[Vacinas](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Vacinas):** Dados e análises sobre vacinas disponíveis em Araranguá.
-2. **[Saneamento](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações):** Informações sobre saneamento básico no município.
-3. **[Internações](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações):** Dados relacionados a doenças registradas.
-4. **[Medicamentos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Medicamentos):** Disponibilidade de medicamentos na rede pública.
-5. **[Óbitos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Óbitos):** Estatísticas sobre óbitos e internações.
+Abaixo você pode acessar a Wiki do Repositório para ver a documentação específica de cada aba:
+1. **[Vacinas](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Vacinas):**
+2. **[Saneamento](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações):**
+3. **[Internações](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações):**
+4. **[Medicamentos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Medicamentos):**
+5. **[Óbitos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Óbitos):**
 
 Para cada aba, você pode encontrar mais detalhes na seção [Wiki do repositório](https://github.com/seu-repo/wiki), onde explicamos:
 - Os dados utilizados e como foram obtidos e tratados.
