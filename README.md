@@ -13,18 +13,18 @@ O objetivo do projeto é **promover maior disseminação de informações** e ap
 
 Para a realização deste projeto, utilizamos a metodologia **Scrum**, que permite uma organização eficiente do trabalho em **sprints** com entregas incrementais. Cada membro do grupo foi responsável por desenvolver e implementar uma aba de navegação específica dentro da aplicação.
 
-Abaixo você pode acessar a Wiki do Repositório para ver a documentação específica de cada aba:
-1. **[Vacinas](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Vacinas):**
-2. **[Saneamento](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações):**
-3. **[Internações](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações):**
-4. **[Medicamentos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Medicamentos):**
-5. **[Óbitos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Óbitos):**
-
-Para cada aba, você pode encontrar mais detalhes na seção [Wiki do repositório](https://github.com/seu-repo/wiki), onde explicamos:
+Se você deseja uma visão geral da metodologia, você pode encontrar mais detalhes na seção [Wiki do repositório](https://github.com/seu-repo/wiki), onde explicamos:
 - Os dados utilizados e como foram obtidos e tratados.
 - Os métodos de análise aplicados.
 - Como os painéis foram estruturados e pensados.
 - O impacto esperado para cada painel.
+
+Abaixo você pode acessar a Wiki para ver a documentação específica de cada aba:
+1. **[Vacinas](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Vacinas)**
+2. **[Saneamento](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações)**
+3. **[Internações](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Internações)**
+4. **[Medicamentos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Medicamentos)**
+5. **[Óbitos](https://github.com/ProjetoExtensaoPyAnalytics/ResolucaoDeProblemas/wiki/Óbitos)**
 
 ---
 
