@@ -22,6 +22,8 @@ Convidamos colaboradores interessados em ciência de dados, Python, visualizaç�
 - **scripts/**: Scripts auxiliares para coleta e processamento de dados.
 - **docs/**: Documentação do projeto e guias de uso.
 
+## Pipeline de construção dos painéis 
+
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
