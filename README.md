@@ -1,6 +1,6 @@
 # Portal de Dados de Araranguá
 
-Essa é uma iniciativa do **PyAnalytics**, em especial do grupo **Resolução de Problemas**, que tem como objetivo resolver problemas reais da sociedade utilizando **Python** e **análise de dados**.
+Essa é uma iniciativa do **PyAnalytics**, em especial do grupo **Resolução de Problemas**, que tem como objetivo resolver problemas envolvendo o uso de dados públicos, utilizando **Python** e **bibliotecas de análise de dados**.
 
 Este projeto consiste em uma aplicação **Streamlit** que apresenta diversas visualizações e análises sobre os **dados de saúde pública de Araranguá**. As informações incluem dados públicos sobre **medicamentos**, **óbitos**, **vacinas**, **saneamento** e **internações**, obtidos de portais governamentais. 
 
