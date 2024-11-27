@@ -65,6 +65,48 @@ df_lista10 = pd.read_csv('ararangua-lista10.csv', encoding='cp1252', sep=';', sk
 df_cid10 = df_cid10.iloc[:-4, :-1]  # Remove as últimas 4 linhas e a última coluna
 df_lista10 = df_lista10.iloc[:-4:, :-1]  # Remove a coluna Total
 
+# Dicionário de substituições
+rename_chapters = {
+    'III. Doenças sangue órgãos hemat e transt imunitár': 'III. Doenças do sangue, órgãos hematopoéticos e transtornos imunitários',
+    'IV. Doenças endócrinas nutricionais e metabólicas': 'IV. Doenças endócrinas, nutricionais e metabólicas',
+    'XIII.Doenças sist osteomuscular e tec conjuntivo': 'XIII. Doenças do sistema osteomuscular e tecido conjuntivo',
+    'XVI. Algumas afec originadas no período perinatal': 'XVI. Algumas afecções originadas no período perinatal',
+    'XVII.Malf cong deformid e anomalias cromossômicas': 'XVII. Malformações congênitas, deformidades e anomalias cromossômicas',
+    'XVIII.Sint sinais e achad anorm ex clín e laborat': 'XVIII. Sintomas, sinais e achados anormais em exames clínicos e laboratoriais',
+    'XIX. Lesões enven e alg out conseq causas externas': 'XIX. Lesões, envenenamentos e algumas outras consequências de causas externas'
+}
+
+# Aplicar o rename na coluna específica
+df_cid10['Capítulo CID-10'] = df_cid10['Capítulo CID-10'].replace(rename_chapters)
+
+# Dicionário de substituições para df_lista10
+rename_chapters_lista = {
+    '01 Algumas doenças infecciosas e parasitárias': 'I. Algumas doenças infecciosas e parasitárias',
+    '02 Neoplasias (tumores)': 'II. Neoplasias (tumores)',
+    '03 Doenças sangue órgãos hemat e transt imunitár': 'III. Doenças do sangue, órgãos hematopoéticos e transtornos imunitários',
+    '04 Doenças endócrinas nutricionais e metabólicas': 'IV. Doenças endócrinas, nutricionais e metabólicas',
+    '05 Transtornos mentais e comportamentais': 'V. Transtornos mentais e comportamentais',
+    '06 Doenças do sistema nervoso': 'VI. Doenças do sistema nervoso',
+    '07 Doenças do olho e anexos': 'VII. Doenças do olho e anexos',
+    '08 Doenças do ouvido e da apófise mastóide': 'VIII. Doenças do ouvido e da apófise mastóide',
+    '09 Doenças do aparelho circulatório': 'IX. Doenças do aparelho circulatório',
+    '10 Doenças do aparelho respiratório': 'X. Doenças do aparelho respiratório',
+    '11 Doenças do aparelho digestivo': 'XI. Doenças do aparelho digestivo',
+    '12 Doenças da pele e do tecido subcutâneo': 'XII. Doenças da pele e do tecido subcutâneo',
+    '13 Doenças sist osteomuscular e tec conjuntivo': 'XIII. Doenças do sistema osteomuscular e tecido conjuntivo',
+    '14 Doenças do aparelho geniturinário': 'XIV. Doenças do aparelho geniturinário',
+    '15 Gravidez parto e puerpério': 'XV. Gravidez, parto e puerpério',
+    '16 Algumas afec originadas no período perinatal': 'XVI. Algumas afecções originadas no período perinatal',
+    '17 Malf cong deformid e anomalias cromossômicas': 'XVII. Malformações congênitas, deformidades e anomalias cromossômicas',
+    '18 Sint sinais e achad anorm ex clín e laborat': 'XVIII. Sintomas, sinais e achados anormais em exames clínicos e laboratoriais',
+    '19 Lesões enven e alg out conseq causas externas': 'XIX. Lesões, envenenamentos e algumas outras consequências de causas externas',
+    '20 Causas externas de morbidade e mortalidade': 'XX. Causas externas de morbidade e mortalidade',
+    '21 Contatos com serviços de saúde': 'XXI. Contatos com serviços de saúde'
+}
+
+# Aplicar o rename no df_lista10
+df_lista10['Lista Morb  CID-10'] = df_lista10['Lista Morb  CID-10'].replace(rename_chapters_lista)
+
 # Adiciona categorização ao df_lista10
 df_lista10['main_category'] = get_parent_categories(df_lista10)
 df_lista10['category_level'] = df_lista10['Lista Morb  CID-10'].apply(get_category_level)
@@ -339,7 +381,7 @@ else:
         height=600,
         xaxis_title="Ano",
         yaxis_title="Número de Internações",
-        legend_title="Capítulos CID",
+        legend_title="Capítulos CID ",
         legend=dict(
             orientation="h",
             yanchor="bottom",
