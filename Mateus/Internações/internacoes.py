@@ -138,10 +138,21 @@ if visualization == "Ao longo do tempo":
     )
     
     fig = px.line(df_plot, 
-                  x='Ano', 
-                  y='Internações', 
-                  color='Capítulo CID-10',
-                  markers=True)
+              x='Ano', 
+              y='Internações', 
+              color='Capítulo CID-10',
+              markers=True)
+
+    fig.update_layout(
+    height=600,
+    legend=dict(
+        orientation="h",  # Legenda horizontal
+        yanchor="bottom",
+        y=1.1,  # Posiciona a legenda um pouco acima do gráfico
+        xanchor="center",
+        x=0.5
+    )
+)
     
     fig.update_layout(height=600)
     st.plotly_chart(fig, use_container_width=True)
